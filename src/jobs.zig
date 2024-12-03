@@ -1,55 +1,50 @@
 const std = @import("std");
 
-const eql = std.mem.eql;
-const testing = std.testing;
-const outw = std.io.getStdOut().writer();
-const stdin = std.io.getStdIn().reader();
-
-const ArrayList = std.ArrayList;
-const allocator = std.testing.allocator;
-
 const job = struct {
     title: []u8,
     company: []u8,
-    salary: ?i32,
+    companydesc: []8,
+
+    location: []u8,
+    workmode: workmode,
+    hours: hours,
+    contract: contract,
+    salary: salarydetails,
+
     description: []u8,
     responsibilities: []u8,
-    requirements: []u8,
+
+    requirements_essential: []u8,
+    requirements_desirable: []u8,
+    skill_list: []u8,
+
     hiring_process: []u8,
-    company_description: []u8,
+    requirements_legal: []8,
 };
 
-// test "arrayList" {
-//     // Initialisation of the job list
-//     var list = ArrayList(u8).init(allocator);
-//     defer list.deinit();
+const workmode = enum {
+    onsite,
+    remote,
+    hybrid,
+};
 
-//     try list.append('A');
-//     try list.append('B');
+const hours = enum {
+    fulltime,
+    parttime,
+};
 
-//     for (list.items, 0..) |item, i| {
-//         try outw.print("{}: {}\n", .{ i, item });
-//     }
+const contract = enum {
+    permanent,
+    fixed,
+};
 
-//     list.items[0] = 'C';
-//     for (list.items, 0..) |item, i| {
-//         try outw.print("{}: {}\n", .{ i, item });
-//     }
+const salarydetails = union(enum) {
+    none: void,
+    value: u32,
+    range: salarayrange,
+};
 
-//     try testing.expect(list.items[0] == 'C');
-//     try testing.expect(list.items[1] == 'B');
-
-//     try outw.print("{c}\n", .{list.items[0]});
-// }
-
-// test "test sdtin" {
-//     const input = try stdin.readUntilDelimiterAlloc(std.heap.page_allocator, '\n', 8192);
-//     defer std.heap.page_allocator.free(input);
-//     try outw.print("Your input was: {s}\n", .{input});
-// }
-
-// test "test sdtin" {
-//     var input: [10]u8 = undefined;
-//     _ = try stdin.readUntilDelimiter(&input, '\n');
-//     try outw.print("Your input was: {s}\n", .{input});
-// }
+const salarayrange = struct {
+    min: u32,
+    max: u32,
+};
