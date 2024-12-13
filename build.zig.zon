@@ -23,6 +23,10 @@
     // Once all dependencies are fetched, `zig build` no longer requires
     // internet connectivity.
     .dependencies = .{
+        .scramble = .{
+            .url = "https://github.com/martinlycko/scramble/archive/refs/tags/b0.0.1.tar.gz",
+            .hash = "1220e061bd3ea942d3c98a3f51a718c466809e992d09c7260bd5b9ff35f039b8c654",
+        },
         // See `zig fetch --save <url>` for a command-line interface for adding dependencies.
         //.example = .{
         //    // When updating this field to a new URL, be sure to delete the corresponding
