@@ -12,11 +12,11 @@ pub fn main() !void {
     var iter = dir.iterate();
     while (try iter.next()) |entry| {
         if (entry.kind == .file) {
-            var file = try dir.openFile("Business Intelligence Analyst - Diamond4Jobs.txt", .{});
+            std.debug.print("{s} \n", .{entry.name});
+            var file = try dir.openFile(entry.name, .{});
             defer file.close();
 
-            const content = try file.readToEndAlloc(allocator, 10000);
-            defer allocator.free(content);
+            const content = try file.readToEndAlloc(allocator, 100000);
 
             try WordsInJobDescriptions.countwords(content);
         }
