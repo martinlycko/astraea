@@ -6,7 +6,7 @@ pub fn main() !void {
     var WordsInJobDescriptions = scramble.WordCounter().init(allocator);
     defer WordsInJobDescriptions.deinit();
 
-    var dir = try std.fs.cwd().openDir("data", .{ .iterate = true });
+    var dir = try std.fs.cwd().openDir("data/textfiles", .{ .iterate = true });
     defer dir.close();
 
     var iter = dir.iterate();
