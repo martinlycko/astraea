@@ -1,0 +1,43 @@
+SENIOR DATA SCIENTIST
+
+UP TO £80,000
+
+LONDON
+
+This role is an exciting opportunity to work for a very fast-paced and data-driven FinTech, focusing on their growing credit card portfolio.
+
+THE COMPANY
+
+This company is working on loans, credit cards, and car finance and aims to get money in customers' hands in only a few minutes, not days. They are one of the fastest growing fintech companies in the UK, and are profitable, meaning they are undergoing rapid growth.
+
+THE ROLE
+
+You will be doing the following daily:
+
+Develop credit risk predictive ML models across their credit card portfolios.
+Mainly working across the companies scorecards.
+Enhancing the existing model suite, while gaining exposure to some pricing models.
+Work end-to-end on model implementation, from deployment to model monitoring.
+Data analytics on trends within books.
+Work with a diverse range of leaders and stakeholders.
+Research new data sources to advise on costs/benefits of lending decisions.
+
+
+YOUR SKILLS AND EXPERIENCE
+
+Must have credit modelling experience, focusing on scorecards or predictive models.
+Previous experience in the credit/lending industry.
+Excellent analytical skills, with strong skills in Python, and SQL.
+Strong knowledge of the credit industry, including products, data, machine learning, and related regulations.
+Excellent written and verbal communication skill.
+STEM degree from a Russell group university.
+THE BENEFITS
+
+Up to £80,000 salary.
+Generous equity.
+Private health insurance coverage.
+Pension scheme.
+Hybrid working model.
+HOW TO APPLY
+
+Please register your interest by sending your CV to Gaby Adamis via the Apply link on this page.

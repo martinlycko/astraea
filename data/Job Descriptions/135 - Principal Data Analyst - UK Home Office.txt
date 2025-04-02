@@ -1,0 +1,59 @@
+Digital Data and Technology (DDaT) is building an internal data capability within our Enterprise Services, End User Compute and Collaboration (EUC&C) Team. The team vision is "To empower HO staff by providing an outstanding designed user experience through the right IT products" and is responsible for ensuring that over 60k civil servants and suppliers have the IT tools to do their jobs including laptops, mobile devices, peripherals, print facilities, tooling such as M365, Co-pilot, voice and video service and contact centres.
+
+
+
+The Principal Data Analyst will develop a team and play a pivotal role in defining and developing the strategy and processes which they will implement to collect, organise, study and present data, to provide insight into users and the performance of products. They will be instrumental in working to translate insights into actionable items that inform product backlogs to improve performance and user experience.
+
+
+
+As a Principal Data Analyst, you will have a genuine passion for analytics, you will manage the team of analysts to understand, manipulate and accurately analyse data, presenting to key stakeholders in ways that make the complex data easy to understand, particularly for non-specialist audiences. Your insights will inform product backlogs to improve performance and user experience.
+
+
+
+What You’ll Do:
+
+Setting the strategy for Data Analysis and roll out of data analytics to support the EUC&C, with input from Lead and Senior Data Analysts.
+Expanding the boundaries of what can be achieved using data, predicting patterns of behaviour and understanding emerging trends and areas of innovation both in government and industry.
+Leading the management, cleaning, abstraction, and aggregation of data, while overseeing a variety of analytical studies to extract meaningful insights and drive data-driven decision-making.
+Engaging IT service owners, business process owners, and various service delivery groups to design, deliver, and maintain solutions for the enterprise.
+Presenting the results of data analysis to a range of senior customers and stakeholders, making recommendations.
+Developing knowledge of cutting-edge techniques and sharing knowledge of data analysis, building capability across the organisation.
+
+
+Essential skills:
+
+Effectively leading and managing a team, helping them to apply a range of techniques to analyse data (e.g. network analysis, data matching, information retrieval, text analytics) sharing insight across EUC&C.
+Identifying the business value for innovation across departments.
+Promoting and monitoring continuous professional and personal development within an organisation and team.
+Interpreting requirements and presenting data in a clear and compelling way, using graphical representations and data visualisations.
+Identifying areas to increase the efficiency and automation of processes.
+Presenting complex ideas and recommendations that inform wider decisions in a clear way to technical and non-technical audiences and senior customers.
+Using tools such as SQL, Python etc and working with suppliers to mine multiple sources.
+
+
+Why join us:
+
+At the Home Office, your work has real-world impact, shaping the safety and security of millions. We offer:
+
+Meaningful Work: Contribute to critical national security and public service initiatives.
+Career Growth: Benefit from tailored development frameworks and professional communities.
+Flexible Working: Balance your professional and personal life with hybrid work options.
+Diversity and Inclusion: Join a workplace where your unique background and talents are celebrated.
+
+
+Benefits include:
+
+Exceptional pension: Employer contribution of 28.97%.
+Generous leave: 25 days annual leave (rising to 30 with service), 8 public holidays, and 1 day for the King’s Birthday.
+Flexible working: Options include full-time, part-time, compressed hours, job sharing, and a hybrid model (minimum 60% on-site).
+Learning and development: Access to training, technical accreditations, and funded qualifications (subject to approval).
+Recognition and inclusion: A culture that champions diversity, enhanced parental leave schemes, annual bonuses, and recognition awards.
+
+
+Learn more about our benefits: Benefits - Home Office Careers
+
+
+
+Additional Information:
+
+This role requires SC clearance. To meet national security vetting requirements, you must typically have been resident in the UK for at least five years. Unfortunately, we cannot sponsor visas.

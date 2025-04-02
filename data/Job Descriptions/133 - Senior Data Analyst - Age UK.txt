@@ -1,0 +1,88 @@
+Salary: £48,450 - £53,550 per annum. 
+
+Permanent contract. Hybrid / London.
+
+35 hours per week.
+
+
+
+Age UK is recruiting for a Senior Data Analyst (Modelling and Analytics) to join our Data Team to lead, develop and implement advanced statistical models and predictive analytics to uncover insights and drive strategic decision-making.
+
+
+
+This role will involve analysing large datasets, using an awareness of evolving marketing requirements, understanding the past to help forecast future trends and delivering actionable insights for the organisation to deliver. Covering many aspects of analysis, not just modelling, you will need to work closely with different teams across Age UK Group, including fundraising, our commercial product suite and our National Services.
+
+
+
+You will be familiar with sophisticated modelling techniques such as propensity modelling, and techniques like logistic regression or decision tree analysis to enable classification or probability prediction tasks. You will be expected to ensure data quality, validate your models and to continuously innovate the analytical approaches used within the organisation, working closely with immediate team members to create the optimum data analysis capability for Age UK's needs.
+
+Communication skills are essential for this role, simplifying complex results for non-technical stakeholders to enable the insights derived to be actioned by the business stakeholders.
+
+
+
+This is an exciting time to join us as we are establishing a new Data capability at Age UK and need people who have the right technical skills as well as a desire for innovation, creativity and above all, want to see the lives of older people improved through the work of Age UK.
+
+
+
+We operate a hybrid-working model, a blend of home and office working. This role will include regular days working from our London office. Travel costs to the London office are the responsibility of the postholder and are not covered by the charity.
+
+
+
+Must haves:
+
+Proficiency in application of statistical analysis and data modelling in relation to campaign analysis, customer profiling, segmentation and propensity modelling.
+Extensive use of statistical or database software, i.e. SPSS / SAS / T-SQL / R, to manipulate large-scale datasets extracted from relational databases.
+Strong numerate / statistical background, with a demonstrable ability to undertake analysis and synthesis of large volumes of data and information, evidencing the ability to collect, organise, analyse and disseminate significant amounts of information - qualitatively, quantitatively, or both.
+An effective communicator, verbally and in writing, able to work collaboratively demonstrating excellent diplomatic and interpersonal skills, both to enable technical collaboration and to help the wider organisation understand and use the data analysis results.
+Experience of promoting culture change across teams; driving collaborative projects; and overseeing new processes & systems.
+Ability to manage multiple projects, identifying conflicting demands and establishing clear priorities in order to meet agreed objectives.
+Experience with MS Power BI.
+Experience utilising a data platform, such as Azure Databricks.
+MS Office applications.
+A degree or equivalent in a numerate discipline i.e. Maths or Statistics
+
+
+Great to haves:
+
+Experience of working in a similar role within the Charity sector.
+
+
+What we offer in return
+
+Competitive salary, 26 days annual leave + bank holidays + annual leave purchase scheme
+Excellent pension scheme, life assurance, health cashback plan and EAP
+Car Benefit Scheme, Cycle to Work Scheme and Season Ticket Loan
+Techscheme - buy any tech from Apple or Currys, up to £1000, and spread the cost over 12 months, interest free
+Blue Light Card Scheme
+You Did It Awards - recognition awards from £100-250.
+
+
+Additional Information
+
+
+
+Supporting statements and anonymisation process
+
+Candidates are expected to provide a supporting statement alongside their CV that explains how they meet the ‘must have’ competencies in the job description. This will be used to assess your suitability for the position. Age UK acknowledges that you may use AI to produce your supporting statement and whilst this is acceptable, we do expect candidates to address the must have criteria by personalising your experience, knowledge and skills. Where candidates rely solely on AI content, Age UK reserves the right to reject the application.
+
+Please note that all CVs will be anonymised by our recruitment system when you apply for a role at Age UK. Our system is unable to anonymise supporting statements, and we would therefore ask that you remove any personal information including your name before you upload to support the work we are doing on making our recruitment selection process more inclusive. All equalities monitoring information is also anonymised and not shared with the hiring panel. Your name and address will only be known to us once you are invited for an interview.
+
+
+
+Equal opportunities & Disability Confident Scheme
+
+Age UK is an Equal Opportunities employer and positively encourages applications from suitably qualified and eligible candidates, regardless of age, sex, race, disability, sexual orientation, gender reassignment, religion or belief, marital/civil partnership status, or pregnancy and maternity. We guarantee an interview to disabled candidates who meet the minimum criteria under the Disability Confident Scheme. Please note that on occasion, due to high numbers of applications, Age UK reserves the right to limit the overall number of interviews offered, and therefore, it may not always be practicable or appropriate to interview all disabled people that meet the minimum criteria for the job.
+
+
+
+Reasonable adjustments
+
+Disabled job seekers can access reasonable adjustments at any stage of the recruitment process. Reasonable adjustments are changes made to remove or reduce a disadvantage related to a person’s disability. All requests for reasonable adjustments are considered on a case-by-case basis, in collaboration with the disabled job seeker to best meet their needs. If you require reasonable adjustments, at any stage of the recruitment process, please contact PandPRecruitment@ageuk.org.uk Disability disclosures will be kept confidential and only shared on a need-to-know basis to support the implementation of adjustments. Disclosures will not be used to inform hiring decisions. 
+
+
+
+Age UK is committed to safeguarding adults at risk, and children, from abuse and neglect. We expect everyone who works with us to share this commitment.
+
+
+
+Early application is encouraged as we will review applications throughout the advertising period and reserve the right to close the advert at any time.

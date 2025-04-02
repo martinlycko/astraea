@@ -1,0 +1,79 @@
+Application Deadline: 13 September 2024
+
+Department: Data & Tech
+
+Location: London
+
+Compensation: £42,000 - £65,000 / year
+
+Description
+
+Entrepreneur First: where the world's most ambitious come to build.
+
+At Entrepreneur First, we believe it matters what the world's most talented people do with their lives. We believe the most impactful thing you can do is build a global technology company, solving massive problems and reaching millions of people at scale. This is why we invest in 700 high-potential individuals every year and help them build a technology startup, from scratch. We call this talent investing. See how it works here.
+
+We pioneered this new model of company creation and are backed by some of the world's best investors and entrepreneurs - from Reid Hoffman (LinkedIn) and Demis Hassabis (Google's Deepmind) to Taavet Hinrikus (Wise). Over 300 companies worth more than $4.5 billion have been built through EF.
+
+The Data & Tech team is looking for its newest member
+
+Our team's mission is to help every Talent Investor at EF to become worldclass. This role will do that by providing amazing internal tools, real-time reporting and seamless workflow automations so Talent Investors are able to do their best work, finding and supporting the next generation of worldclass founders. That means building internal products in Salesforce and Airtable. It means driving adoption and user success, so that everyone can't imagine doing their job without it. It means ensuring our global arsenal of Talent Investing data is complete and stored accurately in our data warehouse BigQuery. It means making sure our data infrastructure and automations are robust and scalable. It means driving forward our mission to be the world's best Talent Investor.
+
+You'll be a central player in driving that mission forward. This is a unique opportunity to build great products and shape the way data is used. It is a global role working closely with colleagues from all our 4 sites - London, Paris, Bangalore and New York - and our Fund and Global Operations team.
+
+Key Responsibilities
+
+On a day to day basis, you will
+
+Work with the Head of Data & Tech and our Chief Platform Officer to align on our quarterly roadmap
+Lead customer discovery to scope out the features of products we're building
+Build internal products like a Talent Management app, Investor CRM and Portfolio Management app in tools like Salesforce and Airtable
+Build, maintain and prioritize backlogs of the products you're building
+Deliver personalized, tailored training ensuring every user understands and loves what you've built for them
+Build close relationships with almost everyone in the business, to drive forward a culture of operational excellence using your products
+Ingest and model data from these products through an ETL tool, and transform it into intuitive reporting and visualizations in our Business Intelligence platform, Looker
+Build and continually improve automations that ensure our data is processed effectively and flows directly to the user through tools like Slack
+
+Skills, Knowledge And Expertise
+
+Who we're looking for
+
+The ideal candidate is a motivated self-starter who is highly effective when working as part of a cross-functional team. Essentially, you enjoy working autonomously, but thrive when that work contributes to a bigger team and company goal. This is important as you will be given problems to solve, as well as the support and accountability to drive progress, fast. You will also be responsible for contributing to a high-performance team culture, ensuring there is collaboration and visibility of progress against our roadmap.
+
+We are looking for someone who is obsessed with building user-centric products and tooling, and gets a huge kick out of seeing people use what you build. If you notice people struggling with part of their work, you dig deep into understanding the problem they're facing before suggesting a solution. Once you have an idea of the way forwards, you use the simplest MVP you can to test your assumptions. Once you've validated your hypotheses, you're obsessed with building the best possible product and iterating based on user feedback. You share our belief that your role is critical to ensuring everyone at EF can do their best work.
+
+You're intrinsically motivated to understand people, their processes, behaviours and what they're trying to achieve. You get satisfaction from making things run smoothly and seeing people use the tooling and reporting every day. You get satisfaction from helping others, solving problems and creating awesome user experiences for your colleagues.
+
+This role requires a balance of product management (40%), building skills (30%) and customer success (30%).
+
+When it comes to practical skills, we are looking for someone with:
+
+Experience building within a Salesforce environment
+Experience working with low-code tools such as AirTable and Make
+Experience building automations, processes and products from scratch - even if the use case or user group is small
+Experience working with data - even if you've only done this in spreadsheets
+A passion for technology and evidence of upskilling e.g learning SQL
+Experience managing multiple projects concurrently in a fast paced environment
+A user-centric approach to work, who knows how to manage stakeholders
+Excellent written and verbal communication skills
+Attention to detail
+
+EF is an ambitious and fast-paced company. As such, the ideal candidate will also:
+
+Be a highly motivated self-starter who is craves autonomy but truly thrives when their work plugs into a team effort to achieve big goals
+Be natural collaborator, who loves building relationships and working cross-functionally
+Have a sense of urgency and impatience to improve things
+Have a strong belief in the power of data to transform individuals and organisations
+Be self-motivated and prefer to learn by doing, failing and trying again
+
+Benefits
+
+A competitive salary
+A buzzing space full of technical founders creating globally impactful businesses;
+Collaboration with a growth minded, diverse team in Europe, Asia and America;
+Generous holidays: in addition to 23 days holiday, we also close the office down for two weeks over Christmas and New Year;
+A Learning & Development allowance to purchase any product or service that will contribute to your personal or professional development;
+Enhanced maternity and paternity pay, plus broader leave policies. We care about our team and enabling the right balance between home and working life.
+
+We want to speak to all applicants who are a fit. You might be a recent graduate or in your early career looking to develop your skills.
+
+EF champions diversity and is committed to creating an inclusive environment in which a variety of backgrounds thrive. We do not tolerate discrimination of any nature including but not limited to discriminating on the basis of race, colour, religion, culture, nationality, gender, gender identity or expression, pregnancy, sexual orientation, age, disability, or marital status.

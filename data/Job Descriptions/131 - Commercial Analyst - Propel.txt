@@ -1,0 +1,30 @@
+Job Title: Commercial Analyst
+
+Location: London - Twice a month
+
+
+
+My client is recruiting a Commercial Analyst to join their purpose-driven organisation working on impactful projects within the health and social sectors. This is an exciting opportunity for someone with a strong background managing stakeholder relationships.
+
+
+
+Key Responsibilities
+
+Engage with clients to accurately scope data analysis requests and manage senior-level stakeholder relationships.
+Help with data analysis and visualisation projects, ensuring they meet client requirements and expectations.
+Work with sensitive health data in the UK, ensuring compliance with data protection regulations.
+Design and implement dashboards and reports using Salesforce.
+
+
+Must-Haves
+
+5+ years experience in client-facing roles, with a track record of accurately scoping data analysis requests and managing senior-level stakeholders.
+Expertise in handling sensitive health data in the UK and a strong understanding of associated data protection risks.
+Proficiency in creating dashboards and reports in Salesforce.
+
+
+Nice-to-Haves
+
+Experience working with health and government partners, including NHSE, OHID, and DWP.
+Experience with PowerBI and Airtable.
+Familiarity with PowerQuery / SQL and the ability to query data sets.

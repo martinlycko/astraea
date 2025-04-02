@@ -1,0 +1,46 @@
+We’re hiring a Product Data Scientist to help shape the future of one of the world’s most widely used platforms. We need someone who can turn data into actionable insights that drive product strategy.
+
+
+
+What's in it for you?
+
+Annual Salary ranges from £110,000 to £125,000 doe and location
+12-month contract - inside IR35 - PAYE - paid on a weekly basis
+Fully remote within the UK (candidates MUST be based in the UK with valid visa)
+
+
+What you’ll do:
+
+Use SQL, Python/R, and statistical modeling to analyse user behaviour and identify trends.
+Design and run experiments to optimise product features and enhance user security.
+Partner with product managers, engineers, and data engineers to define metrics and measure success.
+Influence product roadmaps by providing data-driven recommendations.
+
+
+What we need from you:
+
+SQL expertise – You’ll work with large datasets to uncover insights.
+Python/R proficiency – Build models, analyse data, and design experiments.
+Experience in product analytics and experimentation – Drive decisions through data.
+Strong communication skills – Collaborate with cross-functional teams and influence strategy.
+Right to work in the UK (no sponsorship available).
+
+
+Why this role?
+
+You’ll work on projects that directly impact millions of users, helping to prevent hacks and improve platform integrity.
+You’ll collaborate with a global team and report directly to the hiring manager.
+You’ll tackle challenges like identifying how bad actors exploit the platform and designing solutions to stop them.
+
+
+The ideal candidate:
+
+Has 10+ years of experience in data science or analytics.
+Brings a product mindset and thrives in fast-paced environments.
+
+
+If you’re passionate about using data to solve complex product challenges, let’s chat!
+
+
+
+Sound like you? Hit apply today! Short turnaround shortlisting to be completed on Monday AM.

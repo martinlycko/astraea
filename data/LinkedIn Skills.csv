@@ -1,0 +1,741 @@
+﻿JobID,Skill
+1,Query Languages
+1,Data Analysis
+1,Data Analytics
+1,Business Insights
+1,Data Entry
+1,Statistics
+1,Analytical Skills
+1,E-Commerce
+3,Python (Programming Language)
+3,SQL
+3,Data Analytics
+4,Data Analysis
+4,Data Analytics
+4,Key Performance Indicators
+4,Analytics
+4,Microsoft Power Query
+4,Datasets
+4,Microsoft Power BI
+4,Microsoft Azure
+6,Tableau
+6,Python (Programming Language)
+6,SQL
+6,Google Analytics
+6,Artificial Intelligence (AI)
+6,Statistics
+6,Microsoft Power BI
+6,Financial Data
+6,Amazon Web Services (AWS)
+7,Google BigQuery
+7,Looker (Software)
+7,Google Cloud Platform (GCP)
+7,Dashboards
+10,Data Analysis
+10,Microsoft Excel
+10,Data Analytics
+10,London Insurance Market
+10,Data Quality
+10,Bordereaux
+10,London Market
+12,SQL
+12,Tableau
+12,Python (Programming Language)
+12,Analytics Skills
+12,Snowflake
+12,Stakeholder Management
+12,Dashboards
+12,Microsoft Power BI
+12,"Environmental, Social, and Governance (ESG)"
+12,Financial Reporting
+15,Python (Programming Language)
+15,Data Analysis
+15,Data Analytics
+15,Data Collection
+15,Market Analysis
+15,Forecasting
+15,Analytical Skills
+15,Reporting & Analysis
+15,C#
+15,Data Modeling
+16,Data Analysis
+16,Data Management
+16,Adobe Analytics
+16,DAX
+16,Audience Development
+16,Data Models
+16,Subscriptions
+16,Audience Analysis
+16,Microsoft Power BI
+16,Audience Segmentation
+17,Data Analysis
+17,Data Analytics
+17,Data Visualization
+17,Big Data
+17,Statistics
+17,Analytical Skills
+17,Problem Solving
+17,Data Modeling
+17,Databases
+17,Microsoft Power BI
+18,Business Analytics
+18,Mathematics
+18,Data Analysis
+18,Business Insights
+18,Business Acumen
+18,Strategic Thinking
+18,Analytical Skills
+18,Stakeholder Management
+18,Problem Solving
+18,Data Modeling
+19,Python (Programming Language)
+19,R (Programming Language)
+19,Embedded SQL
+20,Data Analysis
+20,SQL
+20,Data Science
+20,Python (Programming Language)
+20,R (Programming Language)
+20,Fraud Prevention
+20,Stakeholder Management
+20,Quantitative Analytics
+20,Product Analytics
+20,Statistical Analysis
+20,Experimental Analysis
+22,Data Science
+22,PySpark
+22,Artificial Intelligence (AI)
+22,Machine Learning
+22,TensorFlow
+22,Keras
+22,MLOps
+24,Mathematics
+24,Data Science
+24,Visualization
+24,Quantitative Analytics
+24,Big Data
+24,Neuro-Linguistic Programming (NLP)
+24,Data Modeling
+24,Kubernetes
+25,Data Analysis
+25,Data Science
+25,Data Visualization
+25,Generative AI
+25,Data Architecture
+25,Machine Learning
+25,Software Development
+25,API Development
+25,Product Development
+26,Tableau
+26,Python (Programming Language)
+26,SQL
+26,Data Science
+26,Data Visualization
+26,Statistics
+26,Databricks Products
+26,A/B Testing
+26,Machine Learning
+26,Apache Spark
+27,Tableau
+27,Python (Programming Language)
+27,Data Analysis
+27,Microsoft Excel
+27,SQL
+27,Data Analytics
+27,Data Visualization
+27,Predictive Modeling
+27,Microsoft Power BI
+27,Statistical Analysis
+29,Microsoft Excel
+29,Analytical Skills
+29,Problem Solving
+31,Tableau
+31,Python (Programming Language)
+31,Data Analysis
+31,SQL
+31,Data Visualization
+31,Documentation
+31,Natural Language Processing (NLP)
+31,Analytical Skills
+31,GitHub
+31,Amazon Web Services (AWS)
+32,Python (Programming Language)
+32,Data Analysis
+32,SQL
+32,Transaction Monitoring
+32,Data Wrangling
+32,Anti-Money Laundering
+32,Communication
+32,Microsoft Power BI
+32,Hadoop
+32,Self-Management
+33,Data Analysis
+33,SQL
+33,Business Insights
+33,SAS (Programming Language)
+33,Query Optimization
+33,Analytics
+33,SAS (Software)
+33,Data Marts
+33,Stakeholder Management
+33,Data-Driven Insights
+36,SQL
+36,Databases
+36,Microsoft Azure
+37,Optimization
+37,Data Analysis
+37,Microsoft Excel
+37,R (Programming Language)
+37,Eviews
+37,VBA Excel
+37,Analytical Skills
+37,Econometrics
+37,Marketing Mix Modeling
+37,Econometric Modeling
+38,Tableau
+38,Python (Programming Language)
+38,SQL
+39,Tableau
+39,Data Analytics
+39,Microsoft Dynamics
+39,Data Visualization
+39,Data Interpretation
+39,Data Storytelling
+39,Customer Insight
+39,Microsoft 365
+39,Customer Data
+39,Microsoft Dynamics 365
+39,Microsoft Power BI
+40,Data Analysis
+40,Data Analytics
+40,Data Management
+40,Data Science
+40,Data Visualization
+40,Presentations
+40,Statistics
+40,Microsoft 365
+40,Analytical Skills
+40,Business Intelligence (BI)
+42,Data Analysis
+42,Data Analytics
+42,Python (Programming Language)
+42,Visualization
+42,Team Leadership
+42,Data Manipulation
+42,Data Operations
+42,Amazon Web Services (AWS)
+45,Python (Programming Language)
+45,SQL
+45,Fortran
+47,Python (Programming Language)
+47,Data Science
+47,Large Language Models (LLM)
+47,Artificial Intelligence (AI)
+47,Communication
+47,Stakeholder Management
+47,Retrieval-Augmented Generation (RAG)
+47,Datasets
+47,Statistical Analysis
+47,Pattern Recognition
+50,SQL
+50,Python (Programming Language)
+51,Tableau
+51,MySQL
+51,Business Intelligence (BI)
+52,SQL
+52,SQL
+52,Tableau
+55,Data Analysis
+55,Business Analytics
+55,Workable Solutions
+55,Mortgages
+55,Relationship Development
+55,VBA Excel
+55,Analytical Skills
+55,Employee Benefits
+55,Presentation Skills
+55,Industry Training
+57,Data Analytics
+57,Intelligence Analysis
+57,Conversation Issues
+57,Analytics
+57,Dashboards
+57,Microsoft Power BI
+60,Data Analysis
+60,Data Analytics
+60,Statistical Modeling
+60,Market Data
+60,Insurance
+60,Transact-SQL (T-SQL)
+60,Customer Data
+60,Financial Services
+60,Business Intelligence (BI)
+60,Model Development
+61,Data Engineering
+61,Python (Programming Language)
+61,Data Analysis
+61,Data Science
+61,Benchmarking
+61,Business Research
+61,Account Management
+61,Competitive Assessment
+61,Commercial Awareness
+61,Product Development
+62,MySQL
+62,Microsoft Power BI
+62,PostgrqSQL
+63,SQL
+63,Data Analytics
+63,Business Insights
+63,Google Analytics
+63,Google BigQuery
+63,Analytical Skills
+63,Dashboards
+63,Web Analytics
+63,Marketing Analytics
+63,Data Visualization
+64,Microsoft Excel
+66,Microsoft Excel
+66,Data Governance
+66,DAX
+66,Analytical Skills
+66,Compliance Management
+66,Data Models
+66,General Data Protection Regulation (GDPR)
+66,Data Modeling
+66,Microsoft Power BI
+66,Visual Analytics
+67,Digital Marketing
+67,Python (Programming Language)
+67,SQL
+67,Data Analytics
+67,Snowflake
+67,Critical Thinking
+67,Google Analytics
+67,Creative Problem Solving
+67,Microsoft Power BI
+67,Microsoft Azure
+68,Data Storytelling
+68,Customer Insight
+69,Microsoft Excel
+70,SQL
+70,Microsoft Power BI
+71,Statistical Data Analysis
+71,Python (Programming Language)
+71,Data Analysis
+71,Statistical Modeling
+71,Data Science
+71,Statistics
+71,Machine Learning
+71,Data Modeling
+73,Data Analysis
+73,Data Analytics
+73,Strategic Insights
+73,Analytics
+73,Stakeholder Management
+73,Management Consulting
+73,Category Insights
+73,Web Analytics
+73,Microsoft Power BI
+73,Social Listening
+75,Data Analytics
+75,Dashboards
+75,Attention to Detail
+81,Tableau
+81,Python (Programming Language)
+81,SQL
+81,Visualization
+81,Analytical Solutions
+85,Adobe Analytics
+86,Python (Programming Language)
+86,Investment Banking
+86,Electronic Trading
+86,React Native
+86,KDB+
+86,Global Investment
+86,Angular
+86,Capital Markets
+86,Cerdit Derivatives
+86,C++
+88,Data Engineering
+88,Python (Programming Language)
+88,Data Analysis
+88,Data Profiling
+88,Data Architecture
+88,Data Visualization
+89,Statistical Data Analysis
+89,Tableau
+89,Python (Programming Language)
+89,Data Analysis
+89,Microsoft Excel
+89,Strategic Planning
+89,Microsoft SQL Server
+89,Management Information Systems (MIS)
+89,Analytical Skills
+89,Pivot Tables
+91,Python (Programming Language)
+91,R (Programming Language)
+91,DAX
+91,Project Management
+91,Microsoft Power BI
+92,Consulting
+92,Python (Programming Language)
+92,Data Analysis
+92,Analytics
+92,Performance Management
+92,Econometrics
+92,Project Leadership
+92,Marketing Mix Modeling
+92,Client Services
+92,Econometric Modeling
+93,Data Infrastructure
+93,Snowflake Cloud
+93,Dialectical Behavior Therapy (DBT)
+93,Data Models
+96,Tableau
+96,SQL
+96,Data Analytics
+96,Customer Value
+96,Customer Data
+96,Analytical Skills
+96,Loyalty Programs
+96,Microsoft Power BI
+97,Tableau
+97,Data Analytics
+97,Data Interpretation
+97,Data Storytelling
+97,Customer Insight
+97,Microsoft 365
+97,Customer Data
+97,Microsoft Dynamics 365
+97,Microsoft Dynamics
+97,Microsoft Power BI
+97,Data Visualization
+98,Tableau
+98,SQL
+98,Data Analytics
+98,Data-Driven Insights
+98,Business Analytics
+98,Analytics
+98,SAS (Software)
+98,Data Intelligence
+98,Customer Insights
+98,Commercial Analysis
+100,Tableau
+100,Python (Programming Language)
+100,Performance Reporting
+100,Valuation
+100,Management Information Systems (MIS)
+100,Microsoft Power BI
+100,Trade Support
+100,Hedge Funds
+100,Data Visualization
+102,Python (Programming Language)
+102,Statistics
+102,Financial Analysis
+102,Research Skills
+102,Programming
+102,Mathematics
+102,Analytical Skills
+105,SQL
+105,Quantitative Research
+105,Value-at-Risk (VAR) Calculations
+105,Quantitative Analysis
+105,Financial Analysis
+105,Mathematics
+105,Quantitative Finance
+105,C#
+106,Python (Programming Language)
+106,Data Governance
+106,Data Exchange
+106,Java
+106,Artificial Intelligence (AI)
+106,Interoperability
+106,Research Skills
+106,Data Security
+106,Digital Product Development
+106,Spatial Data Management
+108,Python (Programming Language)
+108,Data Analysis
+108,Quantitative Research
+108,Equities
+108,Alpha Generation
+108,Quantitative Finance
+108,Equity Trading
+108,Trading Strategies
+109,Business Insights
+109,Evidence
+109,Co-production
+109,Behavioural Change
+109,Behavioral Health
+109,Problem Solving
+109,Skill Development
+109,Report Writing
+109,Statistical Analysis
+109,Public Health
+110,R (Programming Language)
+110,Attribution
+110,Analytics
+110,Analytical Techniques
+110,VBA Excel
+110,Analytical Skills
+110,Econometrics
+110,Marketing Effectiveness
+110,Marketing Mix Modeling
+110,Econometric Modeling
+116,Python (Programming Language)
+116,Data Analysis
+116,Technical Data Analysis
+116,Microsoft Excel
+116,SQL
+116,Data Analytics
+116,Google BigQuery
+116,FinTech
+116,Strategic Data Analysis
+116,Payments
+117,Data Analysis
+117,Statistical Data Analysis
+117,SQL
+117,Relationship Building
+117,Report Writing
+117,Dashbord Building
+117,Oracle Database
+117,Healthcare Analytics
+117,Statistical Analysis
+117,Data Visualization
+118,Tableau
+118,Python (Programming Language)
+118,Data Analysis
+118,SQL
+118,Data Analytics
+118,Infor Enterprise Resource Planning (ERP)
+118,Material Requirements Planning (MRP)
+118,SAP Supply Chain
+118,Delivery Performance
+118,Microsoft Power BI
+119,Tableau
+119,Python (Programming Language)
+119,Data Analysis
+119,SQL
+119,Looker (Software)
+119,Analytical Skills
+119,Data Modeling
+119,Microsoft Power BI
+119,Business Intelligence (BI)
+120,Microsoft Excel
+120,Data Analytics
+120,Attribution
+120,Strategic Thinking
+120,Marketing Strategy
+120,Client Presentation
+120,Analytical Skills
+120,A/B Testing
+120,Price Modeling
+120,Marketing
+120,Marketing Mix Modeling
+121,SQL
+121,Microsoft Power BI
+122,Software as a Service (SaaS)
+122,Data Analytics
+122,Business Insights
+122,Analytics
+122,Dashboards
+122,Business Intelligence (BI)
+124,Data Analysis
+124,SQL
+124,Professional Services
+124,Cloud Computing
+124,Dashboards
+124,Solution Building
+124,Business Intelligence Tools
+124,Solution Implementation
+124,Business Intelligence (BI)
+132,SQL
+132,Investment Banking
+132,Customer Acquisition
+132,Key Performance Indicators
+132,E-Commerce
+132,Performance Metrics
+132,Performance Appraisal
+132,Operational Improvement
+132,Growth Strategies
+132,E-commerce Optimization
+133,Statistics
+133,IBM SPSS
+133,Microsoft Power BI
+133,Microsoft Azure
+134,Data Analysis
+134,Data Analytics
+134,Data Management
+134,Data Science
+134,Presentations
+134,Statistics
+134,Analytical Skills
+134,Delegation
+134,Business Intelligence (BI)
+134,Data Visualization
+135,Data Analysis
+135,Data Analytics
+135,Data Management
+135,Data Science
+135,Presen
+135,Statistics
+135,Analytical Skills
+135,Delegation
+135,Business Intelligence (BI)
+135,Data Visualization
+142,Artificial Intelligence for Design
+142,Artificial Intelligence (AI)
+142,Relationship Building
+142,Technical Understanding
+142,Stakeholder Engagement
+142,Reinforcement Learning
+142,AI Strategy
+142,Mitigation Strategies
+142,Machine Learning Algorithms
+143,Relational Databases
+143,Tableau
+143,Python (Programming Language)
+143,Data Analysis
+143,SQL
+143,Amazon Redshift
+143,Amazon Relational Database Service (RDS)
+143,Databases
+143,Microsoft Power BI
+144,SQL
+146,Microsoft Excel
+146,Data Analysis
+146,Business Insights
+146,Analytics
+146,Sales
+146,Analytical Skills
+146,Consumer Insight
+146,Business Analysis
+146,Presentations
+146,Client Relations
+154,Presentations
+154,Office Software
+154,Strategic Thinking
+154,Communication
+154,Financial Management
+154,Qualitative Research
+154,Company Operations
+154,Qualitative Analysis
+154,Economics
+161,Python (Programming Language)
+161,SQL
+161,Data Analytics
+161,Statistical Modeling
+161,Data Science
+161,R (Programming Language)
+161,Design of Experiments (DOE)
+161,Product Strategy
+161,Fraud Prevention
+161,Product Analytics
+163,Google Analytics
+163,Google BigQuery
+163,Google Search Console
+164,Tableau
+164,Data Warehousing
+164,Stakeholder Management
+164,Requirements Gathering
+164,Microsoft Power BI
+164,Business Intelligence (BI)
+165,SQL
+165,Microsoft PowerPoint
+166,Intelligence Analysis
+166,Google BigQuery
+166,Analytics
+166,Presentations
+166,Looker (Software)
+166,Back-End Web Development
+166,External Clients
+166,Business Reporting
+166,Business Metrics
+166,Stakeholder Management
+166,Business Intelligence (BI)
+168,Tableau
+168,SQL
+168,Visual Basic for Applications (VBA)
+169,Attribution
+169,Marketing Science
+169,Measurements
+169,B2B Marketing
+169,Capacity Building
+169,Marketing Attribution
+169,Multi-touch
+171,Mandarin
+174,Modeling
+174,R (Programming Language)
+174,EViews
+174,Software Packaging
+174,Mathematics
+174,Client Presentation
+174,Economics
+174,Programming
+175,Python (Programming Language)
+175,Data Analysis
+175,STEM
+175,Analytical Skills
+175,Reference Data
+175,Financial Markets
+175,Microsoft Power BI
+175,Financial Instruments
+176,Python (Programming Language)
+178,SQL
+178,Key Performance Indicators
+178,Google BigQuery
+178,Data Build Tool (DBT)
+178,Google Cloud Platform (GCP)
+178,Analytical Skills
+178,Dialectical Behavior Therapy (DBT)
+178,Stakeholder Management
+178,Dashboards
+178,Problem Solving
+179,Tableau
+179,Python (Programming Language)
+179,Data Analysis
+179,SQL
+179,Snowflake
+179,Looker (Software)
+179,Microsoft Power BI
+181,Academic Background
+181,Market Research
+181,Statistics
+181,Research Design
+181,MaxDiff
+181,Mathematics
+181,Analytical Skills
+181,Market Segmentation
+181,Pricing Strategy
+183,Python (Programming Language)
+183,SQL
+186,Data Science
+186,STEM
+186,Statistics
+186,Neuro-Linguistic Programming (NLP)
+186,Computer Science
+190,SQL
+190,Business Insights
+190,Google Analytics
+190,Customer Segmentation Strategy
+190,Cluster Analysis
+190,Customer Analysis
+190,Lifetime Value
+190,k-means clustering
+190,Data Manipulation
+190,Data Visualization
+191,SQL
+191,Google Cloud Platform (GCP)
+191,Microsoft Power BI
+195,Python (Programming Language)
+195,Modeling
+195,SQL
+195,Lending
+195,Credit Cards
+195,Credit Scoring
+195,Machine Learning
+195,Scorecard
+196,SQL
+196,Python (Programming Language)
+196,Marketing Mix Modeling

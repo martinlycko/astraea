@@ -1,0 +1,38 @@
+https://www.linkedin.com/jobs/view/4105037016/
+
+Job Title: Lead Data Scientist - ML & AI projects
+Salary: £90,000 
+Location: Bristol (hybrod working)
+
+
+Unfortunately, no sponsorship available with this client so full UK working rights required
+
+
+
+Our client is seeking to recruit a new Lead Data Scientist to lead data science initiatives and drive innovation in the healthcare industry. You'll have the opportunity to leverage your expertise in data analysis and machine learning within our dynamic and forward-thinking team, to shape the future of healthcare. If you're passionate about making a real impact and are ready to lead a team of talented data scientists, we want to hear from you.
+
+
+
+What you'll be doing:
+
+Lead a relatively small team of data scientists in developing and implementing advanced data analytics, machine learning and traditional and generative AI solutions, to address complex challenges in healthcare.
+Collaborate with cross-functional teams to identify business opportunities, define data science strategies, and drive the development of innovative products and services.
+Oversee the end-to-end process of data collection, pre-processing, analysis, and model development to derive actionable insights and improve decision-making.
+Drive the development and deployment of scalable and efficient machine learning models and algorithms to enhance healthcare services and optimize business operations.
+Mentor and coach junior data scientists, fostering a culture of continuous learning, innovation, and excellence in data science practices.
+
+
+What you'll bring:
+
+In depth experience coaching and leading junior data scientists within a senior data science role.
+Demonstrable experience of developing complex AI projects with minimal supervision, working in line with best practices.
+Working knowledge of extracting business value from data science methods using both quantitative and qualitative metrics.
+Strong mathematical and statistical background.
+Deep knowledge of Python and data science packages such as Scikit learn, Keras, Tensor flow, and PySpark.
+Experience and understanding of mixed technical teams such as engineering, architects, business analysts.
+Familiar with MLOps industry best practices.
+Good stakeholder communication skills with proven ability to translate complex scientific findings to non-technical stakeholders.
+Understanding of the financial industry, in particular insurance, would be advantageous.
+
+
+If this sounds like you, please make an application and we'll be in touch.

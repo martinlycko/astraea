@@ -1,0 +1,49 @@
+https://www.linkedin.com/jobs/view/4086462507/
+
+Senior Data Scientist - Loyalty
+
+
+
+Salary: £80k - £90k 
+
+
+
+Location: London, Hybrid
+
+Data Idols are working with one of the top global retail companies to expand its data capabilities by hiring a Senior Data Scientist within its loyalty scheme department. 
+
+
+
+
+
+The Opportunity 
+
+You will be working on various projects across loyalty, including customer segmentation, customer retention, customer profiling and customer marketing to help them leverage their data to increase customer sign-up
+You will be helping to create and build various data science models using numerous technologies. 
+Coach and support junior members of the team and help contribute to their personal development 
+
+What's in it for you? 
+
+
+
+
+Up to £90k 
+Bonus scheme 
+
+Skills and Experience
+
+Experience in using modern technologies such as Python, Pyspark, Databricks
+Experience in using advanced SQL
+Experience with Cloud computing, preferably Azure
+Experience in working on loyalty scheme projects
+If you would like to be considered for this exciting role, please submit your cv for initial screening
+
+
+Senior Data Scientist - Loyalty
+
+
+ 
+
+Desired Skills and Experience
+
+Python|Loyalty|Customer

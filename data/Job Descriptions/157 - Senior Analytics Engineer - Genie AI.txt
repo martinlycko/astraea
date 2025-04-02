@@ -1,0 +1,142 @@
+Transform how the legal industry operates with the way you use our data
+Building all your own pipes, transformations and flows - working with a modern data stack of your choice (inc. dbt) to transform data into business value
+Autonomously work from deep data analysis to providing strategic, commercial and customer insights
+
+Your purpose in our mission
+
+We’ve raised $17.8 million in Series A funding led by Google Ventures and joined by Khosla Ventures. They believe in our vision that the law should be accessible to everyone. We need you to enable a self-service data culture where teams can access insights independently.
+
+Your manager and team
+
+Our org structure is made up of pods with distinct areas of focus to keep us all working on the most impactful things for our customers all of the time. Some of our team members work across multiple pods. Our structure was conceived with impact, autonomy and velocity in mind and we'd love to share more with you throughout our interview process. Initially reporting to Alex Denne, our Head of Growth (PLG), you’ll be empowered to elevate Genie through the power of data. Both Alex and Nitish, our Co-Founder & CTO will collaborate with you and enable you when you need them to, and will inspire you to push yourself outside your comfort zone.
+
+This Is What You’ll Be Doing
+
+As a Senior Analytics Engineer at Genie AI you’ll get the chance to immerse yourself within the world of law, legal contracts and AI at a fast paced and autonomous start up. We’re big enough to disrupt the legaltech industry, but small enough that you can make a massive impact on the team. Some of your key day to day duties will include:
+
+Design, build, and maintain the data models which power business insights
+Develop metrics frameworks and dimensions that standardize how we measure business performance
+Work with stakeholders across marketing, sales, product, and operations and machine learning to translate business questions into data solutions
+Enable key stakeholders to share and present data insights across the business
+Enabling robust experimental results that removes opinion from discussion - this will ensure high impact growth / work is done
+Build and maintain a semantic layer that makes data accessible to non-technical users
+Create documentation and training to enable self-service analytics across teams
+Implement and maintain dbt models that transform our raw data into reliable, tested datasets
+Help establish data governance and quality practices as we scale
+
+This is how we’ll set you up for success and the outcomes we expect from you
+
+Over your first 90 days you can expect us to help point you in the right direction to set you up for success. During the interview process we can talk you through a high level overview of your 90 day plan.
+
+By the end of your first three months we expect you to be:
+
+ Month 1: Understand business needs, audit data sources (Mixpanel, Segment, MongoDB, BQ etc.), map stakeholder requirements and develop a roadmap towards a simple but modern data stack. You’ll create a few high-value dashboards by working and playing with the data we already have.
+ Month 2: Implement core data models in BigQuery (probably) or Snowflake/Databricks, creating initial dashboards, establish a metrics framework, and set up dbt transformations for key entities.
+ Month 3: Enable self-service analytics, implement automated reverse ETL for marketing activation campaigns, refine dashboards based on feedback, and deliver actionable insights to growth, sales, finance and product stakeholders.
+
+We’ll continually develop and measure success on the below criteria:
+
+Insight Activation: Business decisions across growth, product, sales and strategy are consistently made using data from our analytics platform
+Self-Service Analytics: Teams can answer their own data questions without your involvement using well-designed dashboards and data models
+Single Customer View: Creation of a unified customer data model that connects behavior across platforms and enables personalization within both growth and marketing comms, and product/ML via AI
+Metrics Standardization: Core business metrics are clearly defined, documented, and consistently calculated across the company (grey areas are known to everyone)
+Data Culture: Increased use of data in decision-making, with more teams requesting access to and using analytics tools
+Technical Foundation: Implementation of a sustainable, documented modern data stack that can evolve with our business needs
+
+We are a start up in an exceptionally dynamic stage of our growth. We are a customer and employee led organisation. What this means is that we adapt to our customers' needs, and the problems we’re solving today could be very different in six months, or even by the end of this recruitment process. We also listen to our team as we empower you to have full autonomy of your role - you're the expert. You should expect to work with us on how your role develops, grows and changes throughout your time at Genie.
+
+It can be tough here because
+
+We don’t structure your work for you. We give you the what and you come up with the how
+We don’t try to get things perfect the first time. We get things to ‘good enough’, and then we continuously iterate
+This is a generalist analytics role - we need you to be good at a lot of data areas rather than specialising in one
+
+But we think you’ll love
+
+The autonomy and trust we give you to deliver your best work
+Learning from some of the brightest minds in the field of AI
+The exhilaration of a fast pace start up
+
+The Skills You Need To Succeed In This Role
+
+The ideal candidate will have 5 years+ experience and:
+
+Advanced SQL: Expert-level SQL for complex data modeling and transformation
+Data modeling/transformation: Strong experience with dbt for transforming raw data into analytics-ready datasets
+Cloud data warehouses: Experience with BigQuery (preferred) or Snowflake/Redshift
+Business communication: Proven ability to translate data insights into business outcomes
+Data visualization: Experience creating intuitive dashboards that tell clear data stories
+BI tools: Proficiency with modern tools like Looker, Holistics, PowerBI or Tableau 
+Metrics definition: Experience defining standardized business metrics and dimensions
+Python: Basic programming skills for data transformation and analysis 
+Version control: Experience with Git for managing data transformation code
+Product Analytics: Experience with tools like Segment, Snowplow, Mixpanel or Amplitude
+
+Nice To Have
+
+Cloud platforms: Familiarity with GCP (preferred) or AWS services 
+Data quality: Experience with testing and validating data transformations 
+ETL/ELT tools: Familiarity with tools like Fivetran or Stitch
+Reverse ETL: Understanding of how to activate data in marketing tools
+
+(Don’t worry about ticking every single box on the list to be considered for this role.)
+
+The data challenges we'll solve together
+
+We're excited to discuss with you the specific data problems we're working to solve – from unifying user journey data across multiple touchpoints to creating actionable customer segments that drive growth.
+
+You'll Help Us Answer Questions Like
+
+What behaviors predict our highest-value customers?
+How do we measure product adoption across 120,000+ companies and a range of AI features? 
+What engagement patterns lead to contract renewals? 
+
+You'll work with data from Mixpanel, MongoDB, Segment, Stripe and more to build a unified view that powers everything from marketing campaigns to product decisions.
+
+This role offers the rare opportunity to shape our entire data strategy while delivering immediate business impact. We'd love to dive deeper into these challenges with you during our conversations.
+
+Unleash your magic: our interview process
+
+Step 1: Meet our Talent Acquisition Lead, Char, to assess your motivations and baseline skills
+Step 2: Complete our take home task
+Step 3: Business / Analytics interview with Alex Denne (our Head of Growth) and Rafie Faruq (our Co-Founder & CEO)
+Step 4: Engineering interview with Nitish Mutha (our Co-founder & CEO) and Emile Joubert (our Snr Software Engineer - Machine Learning)
+Step 5: Culture interview with Char (Talent Acquisition Lead) and Rosie Dent-Spargo (our Product Design Lead)
+For Lead level roles and above, we collect blind references to set you up for success. These insights help us ensure a smooth transition into our team and foster meaningful collaboration between you and your manager from day one.
+
+We can’t wait to meet you! Bring your authentic self, and get ready to explore our culture, team events, and big mission. We're excited to discover what makes you and us unique.
+
+Our Benefits
+
+Here’s just some of the benefits you can look forward to when you enter the Genie’s lamp:
+
+Generous Stock Options: We want all our genies to share in our success 
+Private healthcare: To help keep you fit as a fiddle
+Fully Remote Working: Work from anywhere your heart desires 
+Unlimited book budget: Dive into an unlimited budget for business, law, or technology books
+Home Office Setup: Equip your home office with the best – a top-of-the-range laptop, monitor, wireless keyboard, mouse, and a comfortable office chair. Your workspace will be as splendid as a royal palace
+Learning and Development Budget: Each Genie gets an individual £500 L&D budget annually, plus five days off for any job specific learning adventures
+Unlimited Holiday: Take as much time off as you need to recharge your batteries
+Parental Leave: Both genie parents get enhanced leave to welcome their little genies into the world
+Free access to Genie: For you to create, negotiate and collaborate on legal documents in real time on one platform!
+
+About Genie AI
+
+Genie AI is a machine learning startup with a mission to enable everyone to draft quality legal documents. We're shaking up the legal world and flipping the business model on its head!
+
+Think of what GitHub did with open source code, Instagram and TikTok with entertainment, Airbnb with hospitality, and Uber with travel – Genie AI is doing that with legal contracts. We're conjuring up a community-based AI law platform that'll change the game. Join us, and let’s make some legal magic together!
+
+100,000 companies use Genie AI today - we’ve been growing exponentially!
+We’re funded by the world’s top investors, with significant runway - and we’re growing the team
+We’ve collaborated with Oxford University and Imperial College London to co-author research papers on explainable AI
+According to Forbes, we're also rated one of the top 29 AI startups in the UK
+We're a Sunday Times Best Places to Work Award Winner 2024 
+We’re backed by top legal pedigree, from Lord Neuberger to representing the UK on multiple Ministry of Justice trade missions
+Our customers save on average £15,000 on legal fees per year with Genie
+This isn’t just a SaaS product - we’re redefining the business model of law
+
+Ready to grant wishes and disrupt a £750bn industry? Click apply and join us in creating a world of digital wonders!
+
+At Genie, we’re committed to creating a diverse environment. Whilst we’re on the cutting edge of innovation, it’s all about the people. We embrace differences and hire based on merit, giving equal consideration to all applications, regardless of gender, background and race.
+
+If you would like to subscribe to be notified of future job openings matching your interests and preferences please click here

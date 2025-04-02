@@ -1,0 +1,37 @@
+LEAD DATA ANALYST
+
+UP TO £80,000
+
+LONDON - 4X WEEK IN OFFICE
+
+
+
+THE COMPANY:
+
+Exciting opportunity to join a sports-focused organisation, delivering best-practice analytics and BI solutions for their clients.
+
+
+
+THE ROLE AND RESPONSIBILITIES:
+
+As a Lead Data Analyst, you will:
+
+Conduct data audits, develop strategies, and ensure data quality.
+Build, deploy, and manage Power BI / Looker dashboards.
+Work with SQL, Python, and cloud platforms (GCP, Azure).
+Create a single customer view and deliver insight-driven reports.
+Engage with senior stakeholders, translating data into actionable insights.
+
+
+YOUR SKILLS AND EXPERIENCE:
+
+The Lead Data Analyst will have:
+
+Strong analytical and problem-solving abilities.
+Experience with data manipulation, using SQL.
+Proficiency in data visualisation, via tools such as Tableau, Power BI etc.
+Ability to interpret business and marketing insights.
+Confident communication and stakeholder management.
+Experience working with Google Analytics data
+Experience in advanced customer analytics, segmentations, lifetime value models, clustering
+A passion for sport

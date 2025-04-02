@@ -1,0 +1,43 @@
+Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on Mac, Windows, iOS, and Android, our search engine, and the latest — Privacy Pro. Our culture of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work — you've come to the right place!
+
+Your team and role 
+
+Working On The Data Science Functional Team, You'll Build Machine Learning Models, Conduct Statistical Analyses, And Improve Our Data Processes Using Tools Like Python, Jupyter And SQL, And Work On Related Projects. Recent Projects Include
+
+Deploying fast categorization models for search queries 
+Grading the relevancy of advertisements at scale
+Expanding our fraud-detection models
+
+As a Senior Data Scientist, you'll work directly with product and business objectives, including our search engine, instant answers, and revenue optimization. You'll collaborate with team members across the organization and drive impact through experiments, validating direction and building trust through data, all while becoming an expert in our key metrics like searches, installs, and revenue.
+
+About You
+
+7+ years of experience in Data Science
+Ability to lead and collaborate on high-impact and complex projects from proposal through post-mortem.
+Skills to wrangle vague problems, propose innovative solutions, and execute them with a strong focus on metrics.
+Advanced programming experience, preferably in a high-level language like Python.
+And the basics: expertise in SQL and query optimization; familiarity with columnar databases (e.g., Redshift, Clickhouse, BigQuery, or Druid); expertise building data visualizations and dashboards.
+
+Compensation
+
+$178,500 USD annually and stock options. Compensation is identical within professional levels, regardless of geographic location or team. Compensation for each professional level is transparent across the organization.
+
+Our Team Member Support Guide explains how we prioritise your wellbeing including paid parental leave, office setup and co-working allowances.
+
+Hiring Process 
+
+Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about how we hire.
+
+Diversity, Equity and Inclusion
+
+DuckDuckGo provides equal work opportunities to all team members and applicants, and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.
+
+We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to careers@duckduckgo.com to let us know the nature of your request.
+
+Please Note That
+
+You’ll be required to attend meetings on camera via video conferencing
+Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
+While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
+A successful candidate must pass a background check as a condition of joining the team.
+By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.

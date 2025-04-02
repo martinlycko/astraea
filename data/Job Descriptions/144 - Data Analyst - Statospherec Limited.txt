@@ -1,0 +1,46 @@
+Data Analyst - On-Site in Guildford - Paying up to £50k
+
+
+
+My client are a software and services company delivering bespoke competence management software, operating in the UK and internationally.
+
+
+
+The objective of the Data Analyst’s role is to support the work of the Data Team. You will be responsible for two main areas of work:
+
+
+
+Reviewing, refactoring and debugging the reports that customers run.
+Developing the second generation of reports used by our customers for their competence management operations. This requires skills refactoring SQL procedures as well as skills using the report-building software Jaspersoft Studio.
+
+
+My client is looking for someone with the below skillset:
+
+
+
+Essential:
+
+Knowledge and experience of working with large relational databases
+Proficiency and experience in writing advanced SQL queries, including knowledge of CTEs, window functions, cursors, stored procedures, query plans and optimisation
+Experience creating complex functions and stored procedures in SQL
+Strong problem-solving skills with experience debugging and error fixing with a keen eye for detail
+A proactive attitude in identifying and fixing data quality and code issues
+Formal training and/or work experience in Data Analytics or Data Science
+Excellent communication skills with the ability to translate technically complex ideas to effectively collaborate with non-technical personnel
+
+
+Desirable:
+
+Knowledge and experience of Jaspersoft Studio
+Proficient understanding of code versioning tools such as SVN
+
+
+The overall package includes a generous holiday package.
+
+
+
+This role is only applicable to UK citizens, sponsorship is not available.
+
+
+
+If this is something you are interested in please apply or email your CV to jwebb@stratospherec.com.

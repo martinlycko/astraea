@@ -1,0 +1,33 @@
+Senior Data Analyst
+
+Location – Central London (Hybrid in office 3 days a week)
+
+Up to £70k
+
+Permanent
+
+HL12805
+
+
+
+Finatal is currently partnered with a scale-up B2B tech-enabled business who are going on a journey to professionalise their data products and establish an efficient team. They have had investment from a mid-market Private Equity Fund and are now looking for a Senior Data Analyst who has exceptional skills in GCP and Looker visualisation to drive further client engagement with the products. You will have the opportunity to mentor juniors helping them develop their questioning and problem-solving skills as they face different business challenges. Working closely with the Senior Leadership team including CTO, CPO and CMO will be a key part of this role, advising on how data can drive better decision-making across the organisation.
+
+
+
+Role:
+
+Reporting to the Head of Data you will play a crucial role in creating data products, and dynamic Looker dashboards understanding their needs and communicating effectively to present solutions to clients.
+Utilise your strong problem-solving and commercial skills to engage with internal executives to optimise internal processes and translate data into actionable insights.
+In this role, you will have the opportunity to mentor and potentially line-manage a junior team of data analysts from a technical and commercial point of view.
+By analysing and assessing tools used across the business, a modern stack of GCP, BigQuery, DBT and Looker you will be able to provide market trends, funnel analysis, competitor analysis and track KPIs.
+ 
+
+Requirements:
+
+Visualisation skills are a priority with Looker and LookML being a must-have, this will be key for the client-facing dashboards and products you will be delivering, and it would be useful to have experience with DBT and BigQuery too.
+You will ideally have +3 years’ experience in a Data Analysis or BI role within a fast-paced and rapidly scaling business.
+Strong communication and stakeholder management experience is needed as you will be a key point of contact for internal execs and client contacts when delivering data products and solving commercial problems.
+Having mentored a junior or led a small team would be beneficial.
+
+
+*Please note this role cannot offer Visa Sponsorship*

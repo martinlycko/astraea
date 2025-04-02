@@ -1,0 +1,132 @@
+Job Title: Principal Data Analyst - (Business Intelligence)
+
+Location: UK based 
+
+Work from: Very flexible - we’re happy for folks to work WFH and lots of us do. We only ask that you come into our London office a couple of times a month for team strategy days and socials - but of course, you're more than welcome to come in as much as you like! (+ we're working a 4 day work week - Fridays off!) 🏡
+
+Contract: Permanent
+
+Salary: £91,000 to £100,000 + share options + benefits listed below
+
+
+
+About Cuvva! 
+
+We are making cars multiplayer 🚙
+
+
+
+We’re creating truly flexible products that meet people’s real needs. Using lightning-fast technology to unlock better experiences and fairer prices for our customers, Cuvva is building the future of insurance every day.
+
+
+
+Cuvva was the first to sell hourly insurance to borrow a car through an app in the UK back in 2016. And we haven’t stopped innovating since. We’ve sold 11 million + policies, and supported over 1 million drivers and we’re just getting started. We’re a world-class team of circa 100 people, passionate about solving our customers’ problems. Join us. 🚀
+
+
+
+About the role:
+
+We’re in search of a forward thinking and commercially driven Principal Data (Business Intelligence) Analyst to join our established team within the Pricing & BI divisions at Cuvva. 
+
+
+
+In this unique role, you’ll report directly to our Director of Pricing & Data as a senior individual contributor. While this role is initially focused on your direct individual contributions, there are clear pathways for growth into people management as part of this role's natural progression.
+
+
+
+As our newly defined Principal Data (Business Intelligence) Analyst, you’ll be at the forefront of our transition from a traditional, analysis-focused approach to an advanced Business Intelligence model. Leading initiatives to harness complex datasets, you’ll bring your hands-on experience within Data analytics or Data Science to drive our Business Intelligence strategy and realise Cuvva’s vision.
+
+
+
+You’ll work closely with cross-functional teams, becoming a trusted partner to stakeholders in Marketing, Pricing, Finance, Product, Operations, and Customer Experience. With your natural curiosity and initiative, you’ll champion data-driven discussions, predict trends, offer market and data insights, and proactively coach stakeholders. You'll identify areas for improvement, suggest solutions, and anticipate new metrics that should be tracked, fostering a culture of insight and informed decision-making across Cuvva. 
+
+
+
+At Cuvva, we believe in fostering diverse skill sets and experiences. That’s why we use the titles “Analyst” and “Scientist” interchangeably. This role is titled Principal Data Analyst but may be well-suited to candidates with experience as Data Scientists or overall Business Intelligence. If you have the expertise and drive for high-impact work in this space, we encourage you to apply.
+
+
+
+On a day-to-day basis you’ll be:
+
+Partnering with key stakeholders to define metrics, validate KPIs, and deliver data-driven insights that inform decision-making at all levels, with a key focus on C-Suite stakeholder management and engagement 
+Working collaboratively with the wider team to enhance our data infrastructure and streamline access to accurate, timely insights across Cuvva
+Leading the design, implementation, and maintenance of business intelligence dashboards, ensuring they’re aligned with strategic goals and provide actionable insights
+Performing advanced data analytics, leveraging technologies like Python, SQL, and Looker, to support reporting, performance tracking, and A/B testing
+Conducting data discovery in collaboration with Marketing, Pricing, Finance, Product, Operations and Customer experience teams, translating complex analyses into clear, impactful recommendations for improving customer experiences and driving commercial success 
+Mentoring junior analysts and team members, setting best practices, and promoting a data-driven culture across the business
+
+
+You’ll do great here if you: 
+
+Have advanced proficiency in Python, SQL, Jupyter Notebooks, and/or Looker or similar tools 
+Have a solid background in data visualisation, using tools to present complex information in digestible formats for stakeholders
+Have strong experience in A/B Testing and Experimentation techniques, both Frequentist and Bayesian
+Thrive on cross-functional collaboration, building effective partnerships across teams to translate data into action
+Possess exceptional problem-solving and strategic thinking abilities – you can see the big picture while diving deep into details and know when to disagree and commit and when to challenge 
+Have a track record of stakeholder management, being a master at communicating across a variety of mediums with a proactive approach to engaging and aligning with key business goals
+
+
+It’s a bonus if you: 
+
+Have a background in product or insurance analytics
+Possess an Interest in advancing AI and Machine Learning within the business intelligence space
+Have experience in managing large, cross-functional projects with diverse teams 
+
+
+Benefits:
+
+As well as a competitive salary (£91,000 to £100,000) and equity based remuneration, benefits of working at Cuvva include:
+
+
+
+Very flexible WFH set up, we only ask folks to come in a couple of times a month for team strategy days and socials - but of course, you're more than welcome to come in as much as you like! 
+A four day work week (Fridays off!) 
+Transparent salary model and bands for all roles (without sharing anyone's individual salary of course!) 
+21 days of holiday a year + public holidays - rising with each year at Cuvva 🌞 (holidays have been prorated based on our 4DWW)
+Quarterly team socials and company events 
+Private medical insurance with Bupa
+Professional development budget
+Health, WFH and wellbeing budget 🧘‍♂️
+Increases to all allowances year on year
+Enhanced parental leave
+We’ll provide you with any tech equipment that you need
+Cycle to work scheme
+A day off to volunteer
+Mental Health and Coaching Support - We offer free and confidential access to comprehensive mental healthcare and coaching through Oliva. Giving you the space to talk to a coach or therapist about anything you like
+Hundreds of perks, discounts and flexi points for freebies
+Babylon Health, for online GP appointments, referrals and prescriptions
+£100 a month towards your Cuvva car insurance
+Referral bonus when you bring your friends to join the Cuvva team 💸
+
+
+The hiring process: 
+
+Initial chat with our Director of Pricing & Data - 60 minutes 
+Key stakeholder check-in with our CCO and CMO - 40 minutes 
+Take-home task interview with our BI team - 90 minutes 
+Founders chat with our Founder & CEO - 30 minutes 
+ 
+
+Referrals:
+
+Know someone who could be right for this job? We’d love to hear from them, please drop us a note at jobs@cuvva.com to let us know who you'll be referring and for which role. If they get the job, you will receive an Apple Watch! If someone has already applied to the role before we receive your email they will not be considered a referral, so please check with them beforehand to make sure 🙂
+
+
+
+Cuvva ways of working: 
+
+We’re dedicated to creating a place where people want to work, a place where people believe in what they’re doing, have clear expectations and a bunch of freedom. 
+
+ 
+
+Our approach to hybrid working is very flexible: we only ask people to come a couple of times a month for team building or company events. The rest of time it’s up to you where and how you work. You can of course come into the office as much as you like! 
+
+
+
+Diversity, inclusion and belonging at Cuvva:
+
+At Cuvva, we’re dedicated to building an environment where individuals from all walks of life feel a sense of belonging and have the support they need to thrive. To us, it’s crucial that our differences are embraced and celebrated - and that you’re able to bring your whole self to work everyday. 
+
+
+
+Research shows that men apply to jobs if they meet ~60% of criteria, but women and those in traditionally underrepresented groups tend to apply only if they check all the boxes. If you think you have what it takes but don't meet every single point above, please still get in touch. We'd love to chat and see if you could be a great fit.

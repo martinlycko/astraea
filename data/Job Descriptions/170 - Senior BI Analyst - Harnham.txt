@@ -1,0 +1,43 @@
+Senior Business Intelligence Analyst:
+
+ 
+
+We are looking for an experienced Senior BI Analyst to join a market leading retailer. The ideal candidate will have a strong background in Power BI, DAX and SQL. Knowledge of Python and Databricks will be beneficial to have but not essential. You will be working with the Head of BI and responsible for delivering actionable insights, optimizing BI solutions, and supporting data-driven decision-making across the business.
+
+This a permanent role and is hybrid working. It is 2 days per month in the office, with their office being in Southampton.
+
+ 
+
+Key Responsibilities:
+
+ 
+
+Design, develop, and maintain Power BI reports.
+Use DAX and SQL to create complex calculations, queries, and metrics.
+Collaborate with senior stakeholders to understand business needs and provide analytical solutions.
+Manage large datasets, ensuring data quality and integrity.
+Perform analysis to identify business trends and opportunities.
+Optimize data workflows and reporting processes.
+Experience working with customer data to drive insights into consumer behaviour and improve customer experience will be highly beneficial.
+ 
+
+Requirements:
+
+ 
+
+Proven and extensive experience as a BI Analyst/Developer with expertise in Power BI, SQL, and DAX.
+Strong problem-solving skills and attention to detail.
+Excellent communication and stakeholder management skills to present technical insights to non-technical teams.
+Experience in the retail sector is a plus.
+ 
+
+What will make you stand out:
+
+ 
+
+Knowledge of Python for automation and advanced analytics is highly preferred.
+Experience with Databricks and cloud-based data platforms is a plus.
+Experience in the retail sector is a plus.
+ 
+
+If you would like to be considered for this role, please apply. If you need to follow up on your application please email me or message on LinkedIn and I will get back to you ASAP.

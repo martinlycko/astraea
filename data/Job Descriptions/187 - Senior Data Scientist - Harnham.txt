@@ -1,0 +1,60 @@
+SENIOR DATA SCIENTIST
+
+Up to £90,000
+
+Hybrid - London
+
+
+
+COMPANY:
+
+We are working with a leading technology company focused on how athletes enhance their performance. 
+
+
+
+Their platform leverages advanced data analytics to provide personalized insights, helping users make smarter decisions and improve their game. Additionally, they support major sports leagues and organizations by offering comprehensive data and analytics tools.
+
+
+
+ROLE:
+
+Lead the development of data science models, integrating them into product features.
+Optimize and deploy machine learning models, ensuring performance and scalability.
+Monitor and improve model performance post-deployment.
+Collaborate with product teams to define key metrics and analyze user behavior.
+Design and implement A/B tests to evaluate new features and improvements.
+Stay updated with the latest in data science and drive research initiatives.
+Write clean, maintainable code, enforcing coding standards and best practices.
+Conduct code reviews to ensure technical quality.
+Present complex data concepts to non-technical stakeholders effectively.
+Mentor junior data scientists and foster a culture of knowledge sharing and innovation.
+
+
+REQUIREMENTS:
+
+3+ years of experience in data science or a related field.
+Proven experience developing and deploying machine learning models in production.
+Strong programming skills in Python and SQL.
+Proficiency with data visualization tools (e.g., Tableau, Power BI, matplotlib) and cloud platforms (preferably AWS).
+Expertise in statistics and machine learning frameworks (e.g., PyTorch, scikit-learn).
+Familiarity with Git and collaborative workflows, such as pull requests and code reviews.
+Experience in product experimentation, including A/B testing.
+Strong problem-solving skills and the ability to translate data insights into actionable solutions.
+Passion for solving customer problems, with a love for data and sports.
+Excellent communication and collaboration skills, able to work cross-functionally.
+Experience working in a fast-paced, startup environment is a plus.
+Knowledge of sports (Specifically golf), including playing experience and interest in game analytics, is a plus.
+Proven research experience is a plus.
+
+
+PROCESS:
+
+Intro call
+tech interview
+culture interview
+CEO Sign off
+
+
+NEXT STEPS:
+
+If this role looks of interest, please reach out to Joseph Gregory.

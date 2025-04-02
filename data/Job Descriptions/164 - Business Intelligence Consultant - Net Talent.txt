@@ -1,0 +1,42 @@
+Net Talent are thrilled to partner with a leading data consultancy renowned for its expertise in insights, analytics, data science, and engineering. With several high-profile projects secured, they are expanding their team and seeking a BI Consultant to join a skilled group of consultants in a a remote role. 
+
+
+
+As a BI Consultant, you’ll be part of a multidisciplinary data team to help clients achieve their business priorities.
+
+
+
+Key Responsibilities:
+
+Collaborate with stakeholders to gather requirements and translate business needs into technical solutions.
+Design, develop, maintain, and optimise BI solutions, including dashboards, reports, and data visualisations.
+Design and build ETL processes to extract, transform, and load data from various sources.
+Work with SQL databases to write queries, stored procedures, and optimize performance.
+Develop and manage data models to ensure accuracy and efficiency in reporting.
+Ensure data integrity and security across all BI solutions.
+Drive high-quality, fast-paced execution while managing risks and trade-offs.
+Facilitate effective communication between delivery teams and client teams.
+
+
+Candidate Profile
+
+Proven experience in Data Science, Data Engineering, and Analytics.
+Excellent stakeholder engagement skills, with the ability to present to both technical and business audiences.
+Strong proficiency in BI tools (e.g., Power BI, Tableau, Looker, QlikView). 
+Expert knowledge of SQL and database management systems (e.g., SQL Server, PostgreSQL). 
+Experience with ETL tools (e.g., SSIS, Talend, Apache Nifi) and data warehousing. 
+Understanding of data modelling concepts (Star Schema, Snowflake Schema). 
+Familiarity with cloud platforms (AWS, Azure, GCP) and big data technologies is a plus. 
+Adaptability to various project management methodologies (Agile, Waterfall, etc.)
+Strong analytical and problem-solving skills. 
+
+
+What’s on Offer?
+
+Competitive salary depending on experience £50,000 - £70,000
+Discretionary company bonus 
+Private healthcare
+Remote working
+
+
+Ready to take on a role in a dynamic data-driven environment? Apply today!

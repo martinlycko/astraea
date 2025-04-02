@@ -1,0 +1,67 @@
+Senior Data Scientist - Hybrid (London)
+
+📍 Location: London, UK (Hybrid Working)
+
+💰 Salary: £55,000 - £65,000 + Bonus
+
+🕒 Start Date: Flexible
+
+
+
+Are you a Data Scientist with 2-3 years of experience, looking to elevate your career? We are seeking a Senior Data Scientist to join our London-based team, where you will play a key role in developing advanced machine learning models and data-driven solutions to solve complex business problems across diverse sectors. This is an exciting opportunity to work in a dynamic and collaborative environment.
+
+
+
+Key Responsibilities
+
+🔍 Data Analysis & Modelling: Analyse large, complex datasets to extract meaningful insights and optimise business strategies. Design and deploy machine learning models to support predictive analytics and optimisation.
+
+🤖 Machine Learning Development: Build and implement machine learning models, including supervised and unsupervised learning, deep learning, and recommendation systems.
+
+📊 Data Visualisation & Reporting: Create intuitive dashboards and reports that communicate complex technical findings to both technical and non-technical stakeholders.
+
+🤝 Collaboration: Work closely with cross-functional teams, including engineering, product, and business leaders, to deliver data-driven solutions that drive business outcomes.
+
+🚀 Innovation & Research: Stay up to date with the latest advancements in AI, machine learning, and data science, and apply them to real-world business challenges.
+
+🌍 Mentorship: Support the development of junior team members, fostering a collaborative learning environment.
+
+
+
+Skills & Experience Required
+
+A degree in a STEM field (Mathematics, Computer Science, Statistics, Engineering, or related), with 2-3 years of experience in data science or machine learning.
+Proficiency in Python (preferred) or R, with experience in SQL for data manipulation and analysis.
+Strong understanding of machine learning algorithms and frameworks like scikit-learn, TensorFlow, or PyTorch.
+Experience with cloud platforms (AWS, GCP, or Azure) for model deployment and data processing.
+Proficiency in data visualisation tools such as Tableau, Power BI, or Matplotlib.
+Experience with big data technologies such as Spark or Hadoop is a plus.
+Excellent communication skills, with the ability to present technical concepts to non-technical audiences.
+Desirable Skills
+
+Experience with Natural Language Processing (NLP), computer vision, or time series forecasting.
+Familiarity with model optimisation and hyperparameter tuning.
+Exposure to deployment pipelines, CI/CD for machine learning models, and version control (e.g., Git).
+Knowledge of containerisation tools like Docker or Kubernetes.
+Experience in industries such as finance, healthcare, e-commerce, or energy.
+
+
+Benefits
+
+💰 Competitive Salary & Bonus: £55,000 - £65,000, plus performance-based bonuses.
+
+🏡 Hybrid Working: Flexible mix of office and remote work.
+
+📈 Career Growth: Clear career progression, with opportunities for mentorship and professional development.
+
+🛠 Cutting-Edge Technology: Work with the latest tools and technologies in data science and machine learning.
+
+🤝 Collaborative Environment: Join a forward-thinking, innovative team.
+
+✨ Additional Perks: Pension scheme, private healthcare, wellbeing initiatives, and more.
+
+
+
+How to Apply
+
+Submit your CV now, and I’ll be in touch to arrange a convenient time to discuss the role and your career aspirations.

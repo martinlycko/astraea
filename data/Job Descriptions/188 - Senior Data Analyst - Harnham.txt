@@ -1,0 +1,41 @@
+Senior Data Analyst 
+
+South East London
+
+£60,000 -£85,000
+
+ 
+
+This fast-growing scale-up is making waves in the free-to-enter prize competition space, running a subscription-based model that monetises data. Having successfully scaled, they're now expanding into B2B, providing employees with vouchers while gaining valuable subscription insights.
+
+ 
+
+Role and Responsibilities
+
+As their first dedicated Data hire, you'll have the opportunity to shape the data function and how data is used throughout the company. You'll be working on data access and reporting in Looker within a fast-moving environment, helping drive key business decisions.
+
+Develop and manage data reporting, creating detailed reports and dashboards in Looker for internal stakeholders and clients to provide actionable insights.
+Use SQL to extract, manipulate, and analyse data, ensuring accuracy and efficiency across various data sets.
+Identify opportunities to optimise data access, reporting processes, and overall data efficiency.
+Work closely with teams across the business to understand data needs and deliver valuable solutions tailored to both internal and client requirements.
+Take ownership of the data function, with a clear path towards progressing into the Head of Data role.
+Assist in managing ETL pipelines and data workflows to improve data accessibility and integration across the organisation.
+ 
+
+Experience Required
+
+Proficiency in SQL, with the ability to extract, manipulate, and analyse data efficiently.
+Experience working with Looker, including building reports and dashboards.
+Strong communication skills, with the ability to translate data insights into meaningful business decisions.
+A proactive mindset, keen to add value and drive improvements within the data function.
+Experience with ETL processes is beneficial but not essential.
+ 
+
+Why Join?
+
+The chance to own and build the data function
+Clear progression to Head of Data
+Office in Bromley area -direct trains & reverse commute (no rush-hour chaos!)
+ 
+
+Apply now or get in touch to find out more!

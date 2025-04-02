@@ -1,0 +1,101 @@
+Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out remote.com/how-it-works to learn more or if you’re interested in adding to the mission, scroll down to apply now.
+
+Not only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities, disability status and any other under-represented group to apply, but we prioritize a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in Tech) who meet regularly with the People team. During your interviews and beyond, we ask & encourage anybody who needs an accommodation to request one from their recruiter.
+
+At Remote, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about Remote's AI guidelines check see here.
+
+All of our positions are fully remote. You do not have to relocate to join us!
+
+What This Job Can Offer You
+
+Senior Data Analyst, Revenue Analytics is a crucial hire not only for our Revenue Analytics team, but for Remote more broadly. This individual will help move the advanced analytics capabilities at Remote, generating insights, building predictive models within Sales & Marketing, and test hypotheses around what drives revenue growth. In addition, there will be a traditional Reporting & Analytics component to the role (so, it will be a roughly 50% Data Scientist & 50% Data Analyst split in responsibilities in practice). With our growing analytics team and a modern tech stack, the person has an opportunity to bring advanced craft to Remote, develop both new solutions and ways of looking at existing processes, and raise the standards of what is possible using data and machine learning across the entire organization. Depending on candidate qualifications, expertise and desires, this role can develop into different areas in the future.
+
+What You Bring
+
+Experience in data science / advanced analytics / statistical modelling experience, ideally within Sales/Marketing/Finance or other commercial parts of the organization
+Working knowledge of workhorse machine learning algorithms (particularly supervised learning using Python), and their typical use cases in a commercial organization
+Insatiable curiosity to proactively pose deeper questions, not be satisfied with superficial answers, and dig into vast granular data to uncover conclusive answers analytically
+Strong proficiency in SQL (in Snowflake) to manipulate data easily
+Demonstrated ability to craft precise analytical questions from ambiguous business problems, and roll up the sleeves to address them
+Understanding of causal inference methods to be able to utilize quasi-experimental or other econometric techniques to determine causality among different initiatives (essentially, finding out “what works,” and what does not, especially around Sales & Marketing questions)
+An attitude to “get stuff done” particularly around being actively involved with data cleaning and quality, building reports or answering important business questions (being a full-stack data professional)
+Top-Tier communication skills in English, to distill complex mathematical models, concepts and findings into simple, intuitive words and charts for senior commercial leaders
+
+
+Nice To Have:
+
+Startup/Scaleup Experience, AWS Knowledge, Comfort with distributed & remote teams, EMEA Location, SalesForce Data Experience, Hands-On familiarity with a BI Tool such as Sigma/Looker, dbt, Advanced university degree in Statistics/Mathematics/Physics or other quantitative field
+Go-To-Market (GTM)/Sales Analytics Experience a huge plus
+Some experience of deploying ML models into production ideally highly meriting
+It's not required to have experience working remotely, but considered a plus
+
+
+Key Responsibilities
+
+Initially focusing on developing and maintaining KPIs and dashboards with the rest of the team, to monitor metrics and uncover insights as the primary responsibility for the first :3-6 months (also to understand the business effectively)
+Liaising productively with Data Analysts, Analytics Engineers and the business teams/owners to ensure that data products, analysis & statistical models built are not only technically sound but highly effective and widely useful
+Building predictive models around different business areas and problems within Revenue Analytics : Lead Scoring, Marketing Attribution, Customer Churn Prediction, Optimizing Sales Processes, Building Books of Business
+Maintaining the data pipelines and statistical models, and also continuously calibrate existing models to account for changing business conditions and/or customer behaviour
+Using causal inference and quasi-experimental techniques to dig into historical & current data to statistically identify which initiatives worked and what was the lift they produced
+Owning important business questions analytically and technically, creating new knowledge as well as raising the standards for advanced analytics work.
+
+
+Practicals
+
+You'll report to: Director, Revenue Analytics and Insights
+Team: RevOps - GTM Analytics
+Location: For this position we welcome everyone to apply, but we will prioritise applications from EMEA as we encourage our teams to diversify.
+Start date: As soon as possible
+
+
+Remote Compensation Philosophy
+
+Remote's Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.
+
+At first glance our salary bands seem quite wide - here is some context. At Remote we have international operations and a globally distributed workforce. We use geo ranges to consider geographic pay differentials as part of our global compensation strategy to remain competitive in various markets while we hiring globally. The base salary range for this full-time position is between $40,900 USD to $92,050 USD. Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range may be subject to change.
+
+Application process
+
+Interview with Recruiter 
+Interview & Live Technical Assessment with future manager (75 mins)
+Interview with Team Members (no managers present) (45 mins)
+Executive Interview 
+Bar Raiser Interview
+Prior employment verification check
+
+
+Benefits
+
+Our full benefits & perks are explained in our handbook at remote.com/r/benefits. As a global company, each country works differently, but some benefits/perks are for all Remoters:
+
+work from anywhere
+flexible paid time off
+flexible working hours (we are async)
+16 weeks paid parental leave
+mental health support services
+stock options
+learning budget
+home office budget & IT equipment
+budget for local in-person social events or co-working spaces
+
+
+How You’ll Plan Your Day (and Life)
+
+We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at remote.com/async.
+
+You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your life-work balance is important and you will be encouraged to put yourself and your family first, and fit work around your needs.
+
+If that sounds like something you want, apply now!
+
+How To Apply
+
+Please fill out the form below and upload your CV with a PDF format.
+We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.
+If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.
+
+
+We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.
+
+At Remote, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about Remote's AI guidelines check see here.
+
+Please note we accept applications on an ongoing basis.

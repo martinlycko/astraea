@@ -1,0 +1,29 @@
+Business Intelligence Analyst
+
+Up to £85k + options
+
+Hybrid 3 days a week (SE London). 
+
+Permanent
+
+HL12241
+
+
+
+Finatal is currently engaged with a rapidly scaling subscription business in the entertainment space; after receiving funding they are on a journey to professionalise their data and reporting function. Reporting to the CFO and working cross functionally you will analyse large sets of data creation solutions and data products for complex business problems and external clients. This is a commercially focused role with you setting and tracking KPIs for the business team by team and helping people understand the why. In the long term, you will have the opportunity to drive the data strategy and be involved in key decision-making.
+
+
+
+Role
+
+As the business grows 40% year over year, you will help drive a data-led culture across the business by developing a scalable reporting suite and eventually a self-service analytics function.
+Sitting on a modern techstack of BigQuery and Looker studio you will query data in the back-end utilising SQL for data manipulation and develop insightful dashboards and reports for key teams including sales, marketing and operations.
+Stakeholder management will be part of your day-to-day, collaborating with the CEO, CFO and other execs to present findings to business problems, answer external clients' questions and work alongside technical colleagues.
+You will lead from the front across data governance and quality assessments ensuring that the data is correct and reliable before being used for decision making.
+
+
+Requirements
+
+At least 4 years in a BI or analytics-focused role where you have interacted with stakeholders across the business presenting tangible insights on key business metrics and issues.
+Highly technical on the front end, using Looker to create interesting and clear dashboards and reports,
+Back-end technical skills with experience working in BigQuery and cleaning the data and coding in SQL and some exposure to Python/R.

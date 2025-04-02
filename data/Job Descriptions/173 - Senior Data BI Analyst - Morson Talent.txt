@@ -1,0 +1,34 @@
+Location: Essex (Hybrid - 3 days onsite)
+Salary: Up to £70,000
+
+A growing company in the manufacturing and engineering sector is transforming how it leverages data. Their Business Relationship Model (BRM) is a powerful relational database connecting all areas of the business, providing real-time insights and historical context on customer and supplier relationships. This system is key to unlocking new revenue opportunities by identifying patterns and connections within their data.
+
+They are looking for a highly skilled Data Analyst to help structure and optimize this evolving data framework, uncovering hidden commercial opportunities from complex data interactions. The ideal candidate will have strong technical expertise (Python, SQL, Power BI) and the ability to communicate insights clearly to non-technical stakeholders.
+
+What You'll Be Doing:
+- Extracting & structuring data: Work with large, complex datasets from multiple sources (including the by-products of ERP systems) to generate actionable commercial insights.
+- Identifying business opportunities: Analyze interactions between part types, customers, and manufacturing sources to uncover trends that drive revenue.
+- Creating data-driven strategies: Support procurement, sales, and finance teams by translating insights into clear business recommendations.
+- Enhancing data frameworks: Help evolve and structure the BRM system to improve real-time decision-making.
+- Supporting key projects: Work on two major data-driven initiatives, ensuring data integrity and providing analytical support.
+- Communicating insights: Present findings in layman's terms to leadership and cross-functional teams, making complex data easy to understand.
+
+What We're Looking For:
+- Minimum 3 years of experience in data analysis (or exceptional skills if less).
+- Technical expertise: Strong in Python, SQL, Power BI (experience with relational databases is a plus).
+- Industry background: Preferred experience in engineering, manufacturing, aerospace, or similar complex industries, but adaptable candidates from pharmaceuticals, nuclear, or other sectors will be considered.
+- Problem-solving mindset: Ability to connect data points, recognize trends, and provide commercially viable solutions.
+- Strong communication skills: Comfortable presenting insights to non-technical stakeholders in an actionable way.
+- Self-motivated & proactive: Can hit the ground running, work independently, and collaborate with multiple teams.
+
+Why Join Us?
+- Drive data transformation in a company evolving its analytical capabilities.
+- Work cross-functionally with leadership, procurement, sales, finance & project teams.
+- Impact business strategy by uncovering hidden commercial opportunities.
+- Hybrid setup - 3 days onsite in Essex, 2 days remote.
+- Competitive salary up to £70,000.
+
+Interview Process:
+1) 30-minute call with a senior leader.
+2) Final 1-hour interview with senior leadership.
+3) Offer & onboarding!

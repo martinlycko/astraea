@@ -1,0 +1,81 @@
+Package Description
+
+Job Reference: 21813
+
+Band: C
+
+Salary: £47,500 - £57,500 depending on relevant skills, knowledge and experience. The expected salary range for this role reflects internal benchmarking and external market insights.
+
+Contract type: 12 month Fixed Term Contract / Attachment
+
+Location: Office Base is London, Newcastle or Salford. This is a hybrid role and the successful candidate will balance office working with home working.
+
+We’re happy to discuss flexible working. Please indicate your choice under the flexible working question in the application. There is no obligation to raise this at the application stage but if you wish to do so, you are welcome to. Flexible working will be part of the discussion at offer stage.
+
+Excellent career progression – the BBC offers great opportunities for employees to seek new challenges and work in different areas of the organisation.
+
+Unrivalled training and development opportunities – our in-house Academy hosts a wide range of internal and external courses and certification.
+
+Benefits - We offer a negotiable salary package, a flexible 35-hour working week for work-life balance and 25 days annual leave with the option to buy an extra 5 days, a defined pension scheme and discounted dental, health care and gym. You can find out more about working at the BBC by selecting this link to our candidate pack .
+
+If you need to discuss adjustments or access requirements for the interview process please contact the reasonable.adjustments@bbc.co.uk . For any general queries, please contact: bbchr@bbc.co.uk .
+
+Job Introduction
+
+The BBC has been serving audiences online for a quarter of a century. Across key products including iPlayer, Sounds, Bitesize, BBC News and BBC Sport, we entertain, educate and inform audiences in their millions every day.
+
+Behind the scenes, we are making the shift from broadcasting at our audiences to a service shaped by them and designed around their wants and needs. We are creating personalised products and services that bring the right content to the right people at the right times — a personalised BBC. It will be our greatest leap since iPlayer, and that’s why it is right at the top of our agenda.
+
+Data is fundamental to our future and in Product Analytics we help shape that future. We work across all key BBC products meaning that our portfolio is as diverse as we are, giving us the opportunity to work with one of the broadest and most exciting datasets in the UK. We harness this data to understand the experiences and needs of our audiences, providing the data-driven insights that help Product Group create richer, more personalised experiences that our audiences love, keeping people coming back to the BBC time after time.
+
+As a Senior Data Analyst, you will take ownership of delivering actionable insights within your area, working closely with teams across the business to support key strategic projects and day-to-day decision making. This is a chance to really make an impact. Through a combination of discovery work, in-depth analysis and reporting you will shape the future of our digital products right across the business, deepening our understanding of our audiences and offering essential insight on how to maximise the value we bring them.
+
+Main Responsibilities
+
+Working Within The Product Analytics Team You Will
+
+ Build a clear understanding of our audiences’ experience and needs to guide product design and development
+ Work closely with product managers, engineers and business analysts, championing data and taking the lead in understanding problem areas and working collaboratively on solutions
+ Develop and mentor members of the wider team
+ Support decision making across the Product Group by gaining a broad understanding of our Product portfolio and working flexibly to support business goals
+ Build and maintain dashboards and reports to facilitate data-led decision making
+ Support experimentation by working with product and engineering teams to set up and run experiments, and analyse and draw insight from the results
+ Proactively look for opportunities to optimise audience experience and drive engagement
+ Work to improve and shape our data analysis capabilities through automating data pipelines and working to understand and resolve any data issues
+ Advocate for the value of data in driving effective decision making
+
+Are you the right candidate?
+
+Essential Skills Required Are
+
+ Significant experience in an analytical role, preferably in digital products
+ Excellent data visualisation skills and experience working with data visualisation tools such as Tableau
+ Working knowledge of how digital products use experimentation and experience analysing results of A/Btests
+ Advanced SQL skills and experience working with very large and complex datasets
+ Proactive self-starter, focused on working strategically and for maximum value
+ A continual focus on learning and development and a proven ability to mentor and develop others
+ Excellent time management skills and the ability to prioritise effectively
+ A focus on collaboration and thrives working as part of a cross-functional team
+
+Desirable Skills Are
+
+ Knowledge of R or Python
+ Experience working with on-demand audio media products
+ Familiarity with agile or other rapid application development methods
+ Experience with Data Science & Machine Learning
+ Understanding of data pipelines and/or data modelling
+ Experience with Optimizely integrations and tooling
+
+About The BBC
+
+The BBC is committed to redeploying employees seeking suitable alternative employment within the BBC for different reasons and they will be given priority consideration ahead of other applicants. Priority consideration means for those employees seeking redeployment their application will be considered alongside anyone else at risk of redundancy, prior to any individuals being considered who are not at risk.
+
+We don’t focus simply on what we do – we also care how we do it. Our values and the way we behave are important to us. Please make sure you’ve read about our values and behaviours here .
+
+Diversity matters at the BBC. We have a working environment where we value and respect every individual's unique contribution, enabling all of our employees to thrive and achieve their full potential.
+
+We want to attract the broadest range of talented people to be part of the BBC – whether that’s to contribute to our programming or our wide range of non-production roles. The more diverse our workforce, the better able we are to respond to and reflect our audiences in all their diversity.
+
+We are committed to equality of opportunity and welcome applications from individuals, regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion and/or belief. We will consider flexible working requests for all roles, unless operational requirements prevent otherwise.
+
+To find out more about Diversity and Inclusion at the BBC, please click here .

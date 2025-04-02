@@ -1,0 +1,53 @@
+Job Title: BI Analyst 
+
+Location: Farnborough (2 Days onsite)
+
+Salary: £45,000 - £55,000 DOE 
+
+
+
+Are you a data expert seeking a role where your skills make a lasting impact? 
+
+My Client, a Leading Charity / NGO is seeking a BI Analyst to help transform data into actionable insights, empowering us in our mission.
+
+
+
+ What’s the Role?
+
+
+
+As a BI Analyst, you’ll take the lead in shaping strategies through data-driven insights. This senior-level role is about much more than numbers, it’s an opportunity to steward resources wisely, champion our supporters, and ignite action for children living in poverty. 
+
+You’ll work on projects spanning digital analytics, decision-making tools, and best practices in test-and-learn activities, driving excellence in our analytics and data strategy.
+
+
+
+ Who Are We Looking For?
+
+
+
+💻 Advanced skills in data analysis techniques and SQL.
+
+📊 Experience with tools like KNIME, R, Python, or Power BI.
+
+📈 Proven ability to lead projects and collaborate with stakeholders.
+
+🌱 Passion for continuous learning and team growth.
+
+🙌 A heart for mission and values.
+
+
+
+Key Responsibilities
+
+
+
+Gather, analyse, and interpret complex datasets to support business decision-making.
+Develop, maintain, and optimize BI reports, dashboards, and data visualizations using tools like Power BI, Tableau, Looker, or similar.
+Collaborate with stakeholders to understand business needs and translate them into technical requirements.
+Perform data mining, data modeling, and trend analysis to identify key insights.
+Ensure data integrity, accuracy, and consistency across multiple sources.
+Automate reporting processes to improve efficiency.
+Work closely with engineering, finance, marketing, and other teams to provide data-driven solutions.
+Monitor KPIs and business metrics, recommending improvements based on data insights.
+Stay updated on the latest BI tools, trends, and best practices.

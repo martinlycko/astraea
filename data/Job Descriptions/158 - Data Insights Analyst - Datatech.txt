@@ -1,0 +1,40 @@
+Data Insight Analyst/ Consumer Behaviour -London office hybrid - 3 days per week - Salary negotiable dep on experience up to £60,000 - J12932
+
+Please note this client is unable to offer sponsorship so please ensure you have full UK working rights.
+
+Datatech are working exclusively with a boutique start up in London, staffed across the UK, US and Canada, to grow their team. This leading consumer behavioural data organisation are servicing some of the largest brands and media companies worldwide and have been working for the last 6 + years adding value to their clients.
+
+This company have an incredible amount of data, and having just skimmed the surface of this, there is a huge opportunity to delve deeper and bring their potential to life.
+
+For the role of Data Insights Analyst, we are looking for an enthusiastic and driven individual, ready to get stuck into some extremely interesting projects and work with some huge global brands.
+
+You'll be working in an incredibly supportive and social team, where each employee is an individual contributor and has a voice to produce ideas and ways of success.
+
+In this role, you will be responsible for data collection, analysis and interpretation of a vast and rich data lake of consumer behavioural data to provide actionable insights and recommendations regarding marketing campaigns, sales opportunities and brand perception.
+
+The role….
+
+ Gather data from diverse media platforms using data scraping tools, APIs, and monitoring services. 
+ Provide data-driven recommendations to improve campaign performance based on analysis of key metrics. 
+ Creating propositions for clients and storytelling - really bringing the numbers to life in an engaging and informative manner
+ Clean and structure raw data to ensure accuracy and consistency for analysis. 
+ Identify patterns and emerging trends within media data to understand audience behaviour and market dynamics. 
+ Track key metrics like impressions, reach, engagement, sentiment analysis, and cost-per-click across different media channels. 
+ Analyse data to identify different audience segments and their media consumption habits. 
+ Monitor competitor media coverage and identifying trends to inform strategy. 
+ Create clear and concise reports with data visualizations (graphs, charts) to communicate insights to stakeholders. 
+
+The ideal candidate….
+
+ Proficiency in data analysis tools and techniques (e.g., SQL, Python, R, Tableau)
+ Previous experience in data storytelling, data translation and delivering insights to a variety of audiences
+ Strong problem-solving skills to identify issues within data and developing solutions to address them
+ Knowledge of different media channels (social media, print, television, online advertising) and their metrics
+ Effectively presenting complex data insights to both technical and non-technical audiences
+ Ability to interpret statistical data and draw meaningful conclusions
+
+If this sounds like the role for you then please apply today!
+
+Alternatively, you can refer a friend or colleague by taking part in our fantastic referral schemes! If you have a friend or colleague who would be interested in this role, please refer them to us. For each relevant candidate that you introduce to us (there is no limit) and we place, you will be entitled to our general gift/voucher scheme.
+
+Datatech is one of the UK's leading recruitment agencies in the field of analytics and host of the critically acclaimed event, Women in Data. For more information, visit our website: (url removed)

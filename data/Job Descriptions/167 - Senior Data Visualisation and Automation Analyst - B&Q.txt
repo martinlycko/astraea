@@ -1,0 +1,48 @@
+About The Role
+
+Senior Data Visualisation & Automation Analyst
+
+Permanent 
+
+From £50,000 + Bonus + Pension + ShareSave + 6.6 weeks holiday + Hybrid Working 
+
+Southampton, Store Support Office
+
+We believe anyone can improve their home to make life better. From our Southampton Store Support office (SSO) we equip our stores, our people, and our whole business with everything it takes to help our millions of customers create a home they’ll love. Join us as a Senior Data Visualisation & Automation Analyst and you’ll be a big part of this.
+
+Key Responsibilities
+
+The Senior Data Visualisation & Automation Analyst will act as a strategic driver within the Data Science & Analytics team, leading efforts to produce highquality self-serve dashboards and foundational data products. This role involves not only technical expertise but also strategic vision to enhance customer understanding across the organisation. By partnering with stakeholders and guiding data driven decisions, the role contributes to shaping future strategies, improving customer experience, deepening engagement, driving revenue, and increasing business efficiency across B&Q and TradePoint.
+
+If you would like to work in a collaborative, fast paced, encouraging and future thinking environment, where you’re empowered to be creative and drive performance… then this could be your next role.
+
+Key Accountabilities / Responsibilities
+
+Develop and help lead the strategic vision for the B&Q’s suite of self-serve dashboards, driving business decisions and aligning analytics with organisational goals.
+Oversee the design and delivery of customer data ETL pipelines and foundational data products for B&Q, collaborating closely with Group Data and other technical teams.
+Lead initiatives to design and optimise data flow architectures, balancing speed-to-delivery with long-term scalability and reliability.
+Act as a key thought leader in the wider data community across the group, engaging with Group Data teams and other banners to share insights and best practices.
+Champion data-driven decision-making to support new business areas, such as Digital, Marketplace, Services, and Retail Media, through strategic analytics and reporting solutions.
+Build and nurture relationships with senior stakeholders, translating complex business objectives into actionable analytical strategies.
+Stay at the forefront of innovations in data visualisation and automation, introducing external best practices and technological advancements to B&Q.
+Guide and mentor team members, fostering their professional development and building a culture of continuous learning and collaboration within the team.
+
+Required Skills & Experience
+
+ReRequired Skills & Experience: 
+
+Extensive experience in creating and delivering impactful self-serve BI solutions using modern tools such as Power BI, Tableau, or Looker.
+Advanced SQL expertise with a strong understanding of data transformation and optimisation techniques Experience using other languages apart from SQL such as Python or R. 
+Deep knowledge of cloud-based analytical platforms, such as Databricks, Snowflake, or Google BigQuery
+Proven ability to design and manage complex data workflows and pipelines using tools like Airflow or Databricks. Strong understanding of Data Governance, Data Quality principles, and best practices for scalable and secure analytics environments.
+Experience managing and documenting workflows using tools like Jira and Confluence.
+Exceptional communication and storytelling skills, with the ability to translate data insights into compelling narratives and visuals for diverse audiences.
+Demonstrated ability to lead cross-functional projects and mentor junior team members.
+
+What's in it for me?
+
+As part of a great team, you’ll be valued for who you are.We’re committed to making B&Q more diverse and representative of the communities we serve, where everyone can feel they belong and have equal opportunities. You will have access to a range of networks that represent our colleagues and allies and help us to continue to put diversity and inclusion at the heart of our business.
+
+We also recognise that wellness means different things to different people, and we want to help colleagues be at their best and feel well by offering a range of benefits to help you. As well as a competitive salary, our benefits package includes an award-winning pension scheme, bonus, ShareSave options, 6.6 weeks holiday, payroll giving, an Employee Assistance Programme, shopping discounts, colleague wellbeing benefits and lots more!
+
+So we can support you during the application or interview process, please contact recruitment@b-and-q.co.uk for any recruitment adjustments.

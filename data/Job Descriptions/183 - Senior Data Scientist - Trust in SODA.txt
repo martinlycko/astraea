@@ -1,0 +1,30 @@
+Position: Senior Data Analyst (Reference Data) - £100k Industry: Pensions / Investments
+Workplace: 1-2 days a week in the office 
+Central London
+
+Our client are a global investment / pensions firm in the city of London.
+
+If you have Reference Data / Investment Data experience, and extensive Power BI and Python, this role could be for you.....please apply. 
+
+You can 📧 your cv to matt@hawksworthuk.com or message me on LinkedIn.
+
+What do we need? 🤔
+Reference Data / Investment Data experience, and extensive Power BI and Python experience.
+
+One of the 🔑 bits to this role is that you have experience of modern methods of working, ideally with experience in an Azure environment.
+
+Tech environment:
+Power BI
+Python
+SQL Server
+ETL - Modelling
+Data Factory - Integration tool
+Azure SQL DB
+
+You'll be joining a global pensions and investment firm and a Data Practice that is growing exponentially, here in the UK and Australia.
+
+If this is good timing and you're keen to see the full position description, please do get in touch ☎️
+
+I look forward to hearing from you.
+
+#dataanalyst #powerbi #python #sql #referencedata #pensions #invenstments #data #london

@@ -1,0 +1,67 @@
+Job description:
+Are you passionate about turning data into actionable insights? Do you thrive on solving complex problems and building data-driven solutions that make a real difference? If so, we want you to join our team!
+
+At Exertis, we’re on a mission to harness the power of data to drive smarter decisions and better business outcomes. As a Data Scientist, you’ll be at the forefront of analytics, machine learning, and data engineering—exploring patterns, developing models, and deploying solutions that shape our future. Working with cross-functional teams, you’ll translate raw data into strategic insights, ensuring our business stays ahead in a fast-moving industry.
+
+If you're a curious, results-driven problem solver with a strong analytical mindset, this is your opportunity to make a real impact. Ready to take on the challenge? Apply today!
+
+ 
+
+Salary: £40,000 to £55,000 dependent on experience
+
+Location: Flexible with attendance at Basingstoke office at least twice per month
+
+ 
+
+As part of the team, you’ll:
+
+Engage with stakeholders across the business to define the problem by understanding the business need, identifying the data that is available and defining the success criteria
+Develop a solution that uses data to solve the problem i.e. machine learning model, creating a data-driven dashboard or developing a new business process
+Deploy the solution to production and make it available to users, including integrating the solution with existing systems, training users on how to use the solution and monitoring the solution to ensure that it is working properly
+Explore data to get a better understanding, including looking at the distribution of data, identifying outliers and looking for patterns
+Choose the right analytical techniques for specific problems, involving using statistical analysis, machine learning and data mining
+Communicate insights to stakeholders in a clear and concise way by writing reports, giving presentations or creating dashboards
+ 
+
+Why Join Exertis?
+
+At Exertis, we believe that together, we can achieve more. Our inclusive culture celebrates diverse perspectives and encourages everyone to turn challenges into opportunities. You’ll have access to:
+
+Tailored career development paths designed to help you thrive
+Employee resource groups, including Women at Exertis, LGBTQIA+, Ethnicity and more
+A vibrant and collaborative workplace where your voice matters
+ 
+
+What We’re Looking For:
+
+You’re someone who thrives in a fast-paced, results-driven environment. To excel in this role, you’ll bring:
+
+Experience of working in a statistical/data science role
+MSc or BSc degree from a quantitative field such as Engineering, Statistics, Mathematics, Computer Science or Finance
+Strong problem-solving skills
+Proficiency in Python plus knowledge of querying databases
+Excellent stakeholder engagement skills plus the ability to communicate well both verbally and via written means
+ 
+
+Your Rewards and Benefits:
+
+We recognise and celebrate hard work at Exertis. When you join us, you’ll enjoy:
+
+Competitive salary
+5 weeks of annual leave + bank holidays and the option to purchase more
+Paid time off for your birthday and volunteering opportunities
+Comprehensive parental leave packages and well-being programmes
+A supportive and inclusive environment where your growth is our priority
+ 
+
+Flexible Work Options:
+
+We value diversity and inclusion and champion a culture where everyone feels valued, included and celebrated. We’re open to discussing flexible work arrangements. If it’s right for our customers, our business and for you then we’ll do what we can to support it.
+
+At Exertis we recognise that ways of working have changed, which is why we have adopted a flexible way of working in our offices. Many teams are now offering a mix of remote and office working that support business needs and individual circumstances. 
+
+ 
+
+Selection Process:
+
+Our selection process is designed to help you showcase your skills and experience so we can thoroughly evaluate candidates. Once we receive your CV, our team will carefully review it to assess your suitability for the role. Shortlisted candidates will be invited to a telephone interview with our in-house recruitment team, providing an opportunity to discuss your experience and skills in more detail and find out more about Exertis. Following this, you may be asked to complete online testing to evaluate key competencies relevant to the position. Successful candidates will then proceed to selection process, which may be conducted online or in person, with the hiring manager.

@@ -1,0 +1,49 @@
+Job Title: Enterprise Architect (Data Technology)
+
+Location: Various. Hybrid role with travel when required to London, Frimley, Preston
+
+Salary: £85,000 + depending on experience
+
+What You’ll Be Doing
+
+Defines the data technology strategy, collaborating with senior stakeholders across the business to understand the evolving data technology needs of the organisation
+Develops and maintains the Data Technology Roadmap, aligning emerging data technology trends and disruptions with business drivers and capabilities 
+Liaises with the product suppliers, COTS component vendors and development teams ensuring alignment to the Data Technology roadmap 
+Works jointly across enterprise architecture to inform, develop, and design systems and solutions that supports business strategy requirements and changes in current capabilities 
+Ensure technology solutions are in alignment with enterprise architecture, EA values and target state 
+Identifies conflicts and dependencies between the team and raising these with the relevant projects and stakeholders 
+Contributes and supports appropriate governance for all key aspects of delivery and platforms and encourages adherence to process 
+Actively participates across the enterprise, sharing and re-applying skills and knowledge and bringing in best practice. Supports mentoring and coaching with the delivery community
+
+Essential
+
+Your skills and experiences: 
+
+Proven knowledge and experience of working within architecture frameworks e.g., TOGAF
+Significant technical knowledge of a range of Data technologies. including data warehousing, data analysis, data integration, database technologies (e.g., SQL, NoSQL, Oracle, Hadoop, Teradata)
+Understanding of the system and software development lifecycles lifecycle (including methodologies e.g., Agile) and associated reviews, policies, standards, and governance processes
+Developing reference architecture, principles, and standards
+Technical leadership e.g., acting as a Technical Authority, experience with making technical decisions) 
+
+Desirable
+
+Knowledge or experience of working with Data Management frameworks, e.g., DAMA
+Relevant vocational qualification or equivalent experience (e.g., computer science, information systems, or a related study)
+
+Benefits
+
+You’ll receive benefits including a competitive pension scheme, enhanced annual leave allowance and a Company contributed Share Incentive Plan. You’ll also have access to additional benefits such as flexible working, an employee assistance programme, Cycle2work and employee discounts – you may also be eligible for an annual incentive.
+
+The Group IM&T Team
+
+The role sits within the Group IM&T team within Head Office. The responsibility of this team is to enable the Company to become more effective and efficient through exploitation of digital capabilities. The team defines the policies and standards for IM&T that are adopted across BAE Systems and provides assurance of these in order to meet our contractual and governmental obligations. Our vacancy is an exciting opportunity to work with the Group Digital and Data teams to influence and shape the technology landscape for a rapidly growing area in BAE Systems”
+
+Why BAE Systems? 
+
+This is a place where you’ll be able to make a real difference. You’ll be part of an inclusive culture that values diversity, rewards integrity, and merit, and where you’ll be empowered to fulfil your potential. We welcome candidates from all backgrounds and particularly from sections of the community who are currently underrepresented within our industry, including women, ethnic minorities, people with disabilities and LGBTQ+ individuals. We also want to make sure that our recruitment processes are as inclusive as possible. If you have a disability or health condition (for example dyslexia, autism, an anxiety disorder etc.) that may affect your performance in certain assessment types, please speak to your recruiter about potential reasonable adjustments.
+
+Please be aware that many roles working for BAE Systems will be subject to both security and export control restrictions. These restrictions mean that factors including your nationality, any previous nationalities you have held, and your place of birth may limit those roles you can perform for the organisation.
+
+Closing Date: 8th July 2024
+
+We reserve the right to close this vacancy early if we receive sufficient applications for the role. Therefore, if you are interested, please submit your application as early as possible.
