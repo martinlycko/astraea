@@ -1,0 +1,48 @@
+Data Scientist
+
+Up to £64,000
+
+Reading/London (Hybrid, 3 days onsite per week)
+
+ 
+
+ 
+
+Company:
+
+A global research and analytics firm specializing in audience insights, data science, and engagement. Serving clients in entertainment, sports, and lifestyle industries, it offers services like social media analytics, materials testing, and audience tracking.
+
+Headquartered in Los Angeles with worldwide offices, the company has grown through strategic acquisitions, enhancing its data-driven expertise.
+
+ 
+
+ 
+
+Responsibilities: 
+
+Lead and implement solutions for moderately complex client problems with clear success criteria.
+Support team growth and success while identifying areas for improvement.
+Manage client relationships and large projects with multiple stakeholders.
+Innovate beyond basic feature engineering in model development.
+Deploy and evaluate ML models in production.
+Mentor junior team members in model development and deployment.
+Utilize Python, SQL, and Tableau for analysis on an AWS data platform.
+Collaborate with Data Engineering and Sales/Market Research teams
+ 
+
+ 
+
+Requirements:
+
+BSc or MSc Degree in Computer Science, Artificial Intelligence, Mathematics, Statistics or related fields.
+Strong Python skills (bonus: C++, SQL, Spark)
+Experience in ad tech, audience generation, supervised ML models, email, and advertisement generation.
+End-to-end data science project experience is ideal
+Ability to own solutions and manage stakeholders
+ 
+
+ 
+
+How to Apply:
+
+Please register your interest by sending your CV to Emily Burgess via the Apply link on this page.

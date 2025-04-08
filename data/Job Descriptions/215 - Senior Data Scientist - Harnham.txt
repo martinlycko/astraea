@@ -1,0 +1,49 @@
+Senior Data Scientist
+
+Up to £80,000
+
+London (Hybrid, 3 days onsite per week)
+
+
+
+
+
+Company:
+
+Transforming the lending industry with a fast, fair, and data-driven approach to borrowing. By using advanced technology and real-time analytics, they streamline the loan process, offering quick decisions and transparent terms without the delays of traditional lenders.
+
+
+
+
+
+Responsibilities:
+
+Develop and deploy predictive models for card products.
+Work with the team to rotate between products and ensure model applicability across different use cases.
+Focus on model deployment, ensuring that models are effectively integrated and actionable.
+Leverage your expertise in scorecard modelling, decision models, and fraud model development.
+Continuously monitor and refine models for optimal performance.
+
+
+
+
+Requirements:
+
+MSc or PhD Degree in Computer Science, Artificial Intelligence, Mathematics, Statistics or related fields.
+Strong coding skills in Python and SQL
+Strong background in credit & lending, fintech
+
+
+
+
+How to Apply:
+
+Please register your interest by sending your CV to Emily Burgess via the Apply link on this page.
+
+
+
+
+
+Keywords:
+
+Machine Learning, Data Science, Start-up, Transportation, Travel, Optimization, Predictive

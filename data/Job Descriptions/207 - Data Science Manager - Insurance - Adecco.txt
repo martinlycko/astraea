@@ -1,0 +1,46 @@
+Data Science Manager (Insurance, Propensity Models, Python) £90,000 - £120,000 plus excellent benefits including a 14% bonus and 10% pension
+
+Location: Bromley, Kent 2 days in the office 
+ Contract Type: Permanent
+
+
+Are you a talented Data Science professional looking to take your career to the next level? A leading financial institution in the insurance sector is seeking a dynamic Data Science Manager to join their Actuarial team. If you're passionate about leveraging data science to drive business strategy and have a strong background in propensity models, we want to hear from you!
+
+
+About the Role:
+
+In this exciting brand new role, you'll be at the forefront of building and implementing innovative data science solutions that align with our client's strategic goals. You'll have previous experience of strong Stakeholder engagement and collaborate closely with various stakeholders across the globe, including Business Solutions, Distribution Channels, Marketing, and Actuarial teams. This opportunity is perfect for someone with a quantitative background looking to enhance their commercial experience within the life insurance sector.
+
+
+Key Responsibilities:
+
+Identify growth opportunities and optimise in-force processes using data science.
+
+Conduct investigations utilising data science applications and present insights to stakeholders.
+
+Lead the training and development of Machine Learning models, including propensity models.
+
+Integrate CRM systems with Machine Learning models for effective data analysis.
+
+Build predictive modelling solutions to implement actionable initiatives across the business.
+
+Support ongoing business management by exploring opportunities around data strategy.
+
+Collaborate with distribution channels to enhance performance management through data analytics.
+
+Ensure compliance with internal and external requirements, including Group AI Policy and Consumer Duty.
+
+
+What We're Looking For:
+
+Experience: 5-7 years in a quantitative role, ideally within the insurance or financial services sector.
+
+Skills: Proficiency in Python, R, SPSS Modeller, and data visualisation tools like Power BI, Tableau, or Qlik.
+
+Expertise: Ability to build Machine Learning models from scratch with strong documentation and governance.
+
+Communication: Strong relationship management skills and the ability to explain technical subjects to senior stakeholders.
+
+If you're ready to make a significant impact in the world of data science within the insurance industry, apply now! Join us in shaping the future of our client's data-driven initiatives and unlock your potential in a role that values innovation and collaboration.
+
+Apply today send your CV to emma.pemberton@adecco.co.uk and embark on an exciting journey with us! We can't wait to see how you can contribute to our client's success!

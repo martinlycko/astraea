@@ -1,0 +1,47 @@
+Salary: £90k + bonus
+Location: 2 days in office (EC2)
+
+
+About the Role
+
+
+
+As a Lead Data Analyst, you will work closely with business stakeholders, data engineers, and data scientists to ensure accurate and effective data-driven decision-making. You will be responsible for uncovering data insights, ensuring data quality, and developing compelling reports and visualisations that drive strategic initiatives.
+
+
+
+Key Responsibilities:
+
+
+
+🔹 Business Requirements & Data Discovery
+
+Collaborate with stakeholders to define use cases, success criteria, and data-driven opportunities.
+Translate business needs into actionable data requirements.
+🔹 Data Extraction & Preparation
+
+Work with data engineers to identify and ingest necessary data sources.
+Validate data lineage, data dictionaries, and mappings.
+🔹 Data Validation & Quality Control
+
+Conduct data profiling, anomaly detection, and data cleansing.
+Implement data quality checks to ensure accuracy and reliability.
+🔹 Reporting & Visualisation
+
+Create dashboards, reports, and visualisations to present key insights.
+Effectively communicate findings to both technical and non-technical audiences.
+🔹 Collaboration & Stakeholder Management
+
+Act as the key liaison between technical teams and business units.
+Manage stakeholder expectations and facilitate clear communication.
+
+
+Key Skills:
+
+
+
+Understanding of relational data modelling, data flow diagrams, and ETL/ELT processes.
+Proficiency in SQL and data visualisation tools such as Power BI or Tableau.
+Basic experience with Python or R for data exploration.
+Strong statistical knowledge to interpret patterns, trends, and relationships.
+Ability to transform data findings into actionable business insights.

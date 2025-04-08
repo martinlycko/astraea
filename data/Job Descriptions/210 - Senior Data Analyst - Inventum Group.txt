@@ -1,0 +1,56 @@
+Senior Analyst & Data Specialist
+
+Location: Sutton
+
+Working style: Hybrid
+
+
+
+
+
+
+
+About the Role:
+
+In this role, the successful candidate will play a key part in supporting data projects, providing expertise in database development, data security, and documentation. Working closely with the wider data project team, you will help implement a new core platform and support the Finance Domain's reporting requirements. You will interpret raw data, transforming it into actionable insights for senior stakeholders. This role involves daily collaboration with the Data Architect, Head of Data and Analytics, and the Director of Finance, Risk, and Compliance.
+
+
+
+Key Responsibilities:
+
+Perform advanced data analysis on large datasets to extract actionable insights.
+Identify/interpret trends, patterns and correlations to support strategic and operational decision-making.
+Conduct detailed analyses across the business, producing clear, informative outputs and making recommendations that influence key business decisions.
+Create clear and concise visualizations to communicate data insights to both technical and non-technical stakeholders.
+Automate reporting processes to enhance efficiency and accuracy.
+Collaborate with product, marketing, finance, and operations teams to identify data-driven business opportunities.
+Translate business requirements into technical specifications for data extraction and analysis.
+Develop methods to ensure data integrity, accuracy, and consistency.
+Establish and promote best practices for data management, storage, and security.
+Work with IT and Data Engineering teams to optimize data pipelines and infrastructure.
+
+
+You will need:
+
+Experience in a senior Business Intelligence role, preferably within the finance industry.
+Strong SQL skills within a reporting environment.
+Proficiency with business reporting software solutions (Power BI preferred).
+Detail-oriented approach, with a focus on delivering high-quality, accurate work.
+Ability to manage multiple projects and work under tight deadlines when needed.
+
+
+Desirable Requirements:
+
+Experience with cloud platforms such as AWS, Google Cloud and Azure (or other similar systems)
+Knowledge of data governance and compliance regulations (e.g., GDPR).
+
+
+Additional Information:
+
+
+
+The company we are partnered with will not be providing sponsorship for this role.
+
+
+
+Inventum Group is passionate about equity, diversity and inclusion. We seek individuals from the widest talent pool and encourage underrepresented talent to apply for vacancies with us. We are committed to recruitment processes that are fair for all, regardless of background and personal characteristics. If you require any adjustments to apply for a role with us, please let us know in whatever way suits you best. Inventum Group is a Recruitment and ED&I Consultancy Business.

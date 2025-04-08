@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column-nav {
+  flex: 15%;
+}
+.column-work {
+  flex: 70%;
+}
+
+
+</style>
+</head>
+<body>
+
+
+<h2>Header Row</h2>
+
+<div class="row">
+  
+    <div class="column-nav">
+        <div style="background-color:#aaa; display: flex; justify-content: space-between;">
+            <h4 style="margin: 0px";>Documents</h4>
+            <button type="button" onclick="AddDocument()">+</button>
+        </div>
+        <div id="work-selector"></div>
+    </div>
+
+    <div class="column-work" style="background-color:#bbb;">
+        <h4>Column 2</h4>
+        <p>Some text..</p>
+    </div>
+
+    <div class="column-nav">
+        <div style="background-color:#aaa; display: flex; justify-content: space-between;">
+            <h4 style="margin: 0px;">Attributes</h4>
+            <button type="button" onclick="AddDocAttribute()">+</button>
+        </div>
+        <div id="work-selector"></div>
+    </div>
+
+</div>
+
+</body>
+</html>

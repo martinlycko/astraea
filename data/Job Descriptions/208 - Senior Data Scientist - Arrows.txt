@@ -1,0 +1,22 @@
+Senior Data Scientist - Python - SQL - Databricks - Hybrid (London) - £80k-£100k (Equity Offered)
+
+Currently working with a client in the Crypto industry who is looking for a motivated senior data scientist to join their team and help prevent financial crimes and allow cryptocurrencies to be used for good. 
+
+Responsibilities: 
+
+Work in a highly collaborative environment with engineers, blockchain analysts, data scientists, researchers. Your shared goal is creating intelligence, you contribute in different ways.
+Be deeply opinionated about where we're spending our time, and how we can increase the value of our intelligence.
+Own your time and output. Is your time better spent today building a model or researching a new more powerful model?
+Participate in a collegiate group of blockchain experts, share your knowledge across our business wherever it is effective.
+Requirements: 
+
+Has a STEM degree.
+Is comfortable querying data with SQL and Python.
+Can optimise queries for huge datasets.
+Has a solid understanding of blockchain ecosystem elements like DeFi, Exchanges, Wallets, Smart Contracts, mixers and privacy services.
+Databricks and PySpark
+Analysing blockchain data
+Building and maintaining data pipelines
+Deploying machine learning models
+Use of graph analytics and graph neural networks
+If this sounds like you then please do reach out and let's have a chat!

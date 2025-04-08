@@ -1,0 +1,78 @@
+We are partnering with a prestigious investment bank to find a highly skilled and Hands-on Machine Learning Operations (MLOps) Lead. This role will be pivotal in building out a greenfield framework for the deployment and management of scalable AI/ML solutions, specifically for the front and Middle Office user base.
+
+
+
+The role is to define and set up a greenfield standardized MLOps framework for capital markets and set up all the tools and best practices to educate data scientists and equip them with the right tools and expertise. You MUST be hands on.
+
+ 
+
+A strong understanding of Devops, Machine learning and Data engineering is required to enable to right candidate to implement the MLOps processes. 
+
+ 
+
+This team are a specialist team and this role in particular is a key position. Once the framework is established , you will become the gatekeeper to lots of other divisions within the bank, who will leverage your knowledge and expertise. As such, you will gain exposure to lots of different business areas and business stakeholders, so relationship building and good communication will be key. 
+
+ 
+
+You will bring a expertise in data science or data engineering, with a specific focus on MLOps for at least 2 years. This platform is critical and will be rolled out across the bank, so we are looking for only the highest calibre candidates with experience building and being responsible for greenfield MLOps pipelines that handle very large datasets. You will be responsible for building out a greenfield standaridised framework for Capital markets.
+
+
+
+The core platform is built on Azure Databricks Lakehouse, consolidating data from various front and Middle Office systems to support BI, MI, and advanced AI/ML analytics. As a lead, you will shape the MLOps framework and establish best practices for deploying and managing AI/ML solutions for a diverse and dynamic user base, including data scientists, quants, risk managers, traders, and other tech-savvy users.
+
+
+
+Core Responsibilities:
+
+Lead the development of AI/ML CI/CD pipelines and frameworks for supporting AI/ML and Data Science solutions on Azure Databricks.
+Define and implement best practices for DataOps, DevOps, ModelOps, and LLMOps to standardize and accelerate the AI/ML life cycle.
+Collaborate with Data Scientists and teams across Front Office Quant teams, Sales/Trading desks to build, monitor, and maintain AI/ML solutions.
+Adopt cutting-edge advancements in GenAI and LLM technologies to keep the platform at the forefront of innovation.
+Align with the bank's central Enterprise Advanced Analytics & Artificial Intelligence group to ensure alignment with organizational goals, strategies, and governance.
+Manage large datasets and support data preparation, integration, and analytics across various data sources (orders, quotes, trades, risk, etc.).
+
+
+Essential Requirements:
+
+2+ years of experience in MLOps and at least 3 years in AI/ML engineering.
+Knowledge in Azure Databricks and associated services.
+Proficiency with ML frameworks and libraries in Python.
+Proven experience deploying and maintaining LLM services and solutions.
+Expertise in Azure DevOps and GitHub Actions.
+Familiarity with Databricks CLI and Databricks Job Bundle.
+Strong programming skills in Python and SQL; familiarity with Scala is a plus.
+Solid understanding of AI/ML algorithms, model training, evaluation (including hyperparameter tuning), deployment, monitoring, and governance.
+Experience in handling large datasets and performing data preparation and integration.
+Experience with Agile methodologies and SDLC practices.
+Strong problem-solving, analytical, and communication skills.
+
+
+Why Join Us?
+
+Work on a greenfield project with a major global investment bank.
+Gain deep expertise in MLOps, Azure Databricks, GenAI, and LLM technologies.
+Play a key role in building scalable AI/ML solutions across Capital Markets.
+Remote work flexibility with a competitive day rate.
+
+
+If you are a talented MLOps professional with the expertise to help build and scale advanced AI/ML solutions in the investment banking space, we'd love to hear from you. Apply now!
+
+
+
+How to Apply:
+
+If you meet the qualifications and are excited about this opportunity, please submit your CV.
+
+We look forward to hearing from you!
+
+
+
+Job Title: Machine Learning Operations Lead- Investment Banking
+
+Location: Remote (London City- UK based) Very flexible working arrangements
+
+Rate: Up to £850 per day (Outside IR35)
+
+Job Type: 12-Month Contract (with extensions)
+
+Industry: Investment Banking/Finance Technology

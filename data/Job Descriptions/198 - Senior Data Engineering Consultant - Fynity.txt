@@ -1,0 +1,100 @@
+Senior Data Engineering Consultant
+
+
+
+Do you have strong hands-on technical data engineering skills?
+
+
+
+Have you worked across the full end-to-end lifecycle of data projects?
+
+
+
+Have you delivered value-adding data solutions that make a true business impact?
+
+
+
+If the answer to these questions is YES, then this leading boutique data & insights consultancy would be a perfect home for you!
+
+
+
+Role & Responsibilities
+
+
+
+This consultancy is seeking a driven Senior Data Engineering Consultant who can bring a blend of functional and hands-on technical data experience to join their practice.
+
+
+
+This practice is made up of some of the most competent and highly skilled data professionals in the market, and you will get the opportunity to learn from some of the best.
+
+
+
+In this client-facing role, you will get to work on and lead exciting and complex data projects for various customers. Projects can vary in size and complexity, and you will take ownership of deliveries; gathering requirements, understanding business problems, designing and building solutions, reporting and analysis through to go-live and training. You will have plenty of opportunity to flex your broad, hands-on, data skills to help harness solutions and solve problems, and you will have the opportunity to witness the change and impact your work has on the client.
+
+
+
+Responsibilities will include:
+
+
+
+Building and implementing technical data solutions for customers using a variety of different data tools and platforms
+Consulting with clients on approach, and suitable technologies
+Technical project leadership, requirements gathering, delivery and documentation
+Writing code and building solutions
+Managing junior consultants on deliveries
+
+
+What is required?
+
+
+
+To be considered, you will be a Data Consultant or Data Engineer who has a track record of delivering technical data solutions, ideally in a client facing consultancy environment.
+
+
+
+You will have a strong hands-on technical skillset spanning data engineering, data integration and data migration and will be adaptable, able to work with different tools and technologies, depending upon the client and project needs.
+
+
+
+You will possess strong stakeholder engagement and management skills and will be able to evidence where you have led or at least played a key role in the delivery of data solutions, managing projects and mentoring or overseeing the work of more junior colleagues.
+
+
+
+You will bring experience in designing data solutions, writing code, and documentation, and must have strong skills in tools including but not limited to:
+
+
+
+MS Fabric stack
+
+Databricks
+
+Azure
+
+SQL
+
+Tableau / Power BI
+
+
+
+A knowledge of data modelling and of general IT architecture and systems integration is also required. Other technologies such as Azure Data Factory, RedShift, Informatica, Qlik or similar are also useful and you will be tech curious, keen and open-minded to learning new skills. Experience in Oracle OBIEE and/or Oracle Analytics Cloud is desirable.
+
+
+
+A self-starter, you will also need excellent communication and presentation skills.
+
+
+
+Rewards
+
+
+
+A competitive salary of £60,000-£80,000 is on offer (depending on your level of experience) as well as an annual bonus of £5k-£7k (paid quarterly), private medical, pension (up to 5% matched) and other perks such as a mobile phone allowance.
+
+
+
+This is a hybrid role that offers lots of flexibility to work remotely, but visits to the office in London are required 1-2 times per week (as well as occasional visits to the office in Surrey).
+
+
+
+This consultancy has big ambitions to grow, so if you are a Senior Data Engineering Consultant and want to work alongside some of the industry’s best on some exciting client projects, then this could be the challenge you are seeking!

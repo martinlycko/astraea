@@ -1,0 +1,37 @@
+Data Scientist - Marketing/Customer Analytics
+
+Reading – Hybrid (3x per week in office)
+
+Up to £60,000 + Benefits
+
+
+
+About the Role
+
+A leading research and insights company is looking for a Data Scientist to join their growing team. With a strong focus on data-driven decision-making, they help brands across entertainment, tech, sports, and consumer goods maximise their marketing impact. You’ll be part of a collaborative Data Science team, working on large-scale datasets, building machine learning models, and delivering actionable insights for high-profile clients.
+
+
+
+Key Responsibilities
+
+Lead the development of solutions for complex client challenges, defining clear success criteria.
+Support and mentor junior team members, fostering a collaborative environment.
+Independently manage client relationships and project expectations.
+Develop and deploy ML models, applying innovative approaches beyond basic feature engineering.
+Use Python, SQL, and Tableau for reporting and analysis within an AWS environment.
+Work closely with Data Engineering, Sales, and Market Research teams across the UK, US, and India.
+
+
+What We’re Looking For
+
+Experience in Data Science, with a proven track record of delivering impactful projects.
+Strong statistical and machine learning expertise, with the ability to apply and evaluate various algorithms.
+Proficiency in Python (Pandas), SQL, and data analytics tools.
+Experience deploying and evaluating ML models in production environments.
+Ability to interpret complex datasets, drawing meaningful insights to drive business decisions.
+Strong communication skills, with experience in managing client relationships.
+A degree in a relevant field such as Mathematics, Statistics, Economics, Psychology, Sociology, Physics, Engineering, or Computer Science (Master’s or PhD is a plus).
+Interest or experience in TV viewing data, media, or marketing analytics is beneficial but not essential.
+
+
+If this role looks of interest, please reach out to Joseph Gregory.

@@ -1,0 +1,30 @@
+About Us
+
+We’re seeking a passionate and innovative Data Insight Analyst with a deep understanding of both data analytics and business dynamics.
+
+
+
+The Role
+
+Maintain and support the existing portfolio of data and analytics products to inform business decisions.
+Innovate and deliver new data and analytics products to empower the wider business, including data transformation, business reports, self-service dashboards, statistical analysis, and optimization modelling.
+Contribute to the full end-to-end delivery lifecycle of projects, including requirements gathering, analysis, design, development, testing, and rollout to stakeholders.
+Provide insightful recommendations and collaborate with stakeholders to continuously improve products and processes.
+Train, coach, and promote best practices to build a collaborative Data & Analytics community across the business.
+Champion data and analytics adoption, supporting teams to become more self-sufficient in meeting their Data & Analytics needs through cross-functional relationships.
+
+
+What You’ll Need
+
+We’re looking for a combination of technical skills, problem-solving ability, and the right mindset for this role.
+
+A degree in a relevant subject or proven, credible work experience in data and analytics.
+Experience with various tools and techniques for report building, ad-hoc queries, and data analytics (e.g., Power BI, Python).
+Strong communication skills at all levels, with the ability to understand business problems and explain insights and recommendations effectively.
+A high level of curiosity and attention to detail, aiming to uncover answers and enhance the team’s ability to deliver first-class analytics.
+Proven experience successfully delivering small and large data analytics projects.
+Comfort with data transformation and preparation of diverse and complex data sets.
+Proficiency in creating interactive, intuitive, and insightful dashboards using modern data visualization tools.
+Confidence in training, coaching, and mentoring others.
+A keen problem solver, excellent with technology, and detail-oriented.
+Experience with AI technologies such as machine learning is desirable, but not essential.

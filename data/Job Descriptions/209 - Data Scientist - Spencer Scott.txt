@@ -1,0 +1,30 @@
+Data Scientist's wanted by global company within the energy markets.
+
+
+
+You'll be working across the company's suite of short-term forecasting tools, which has been built by a combination of machine-learning, optimisation and fundamental models within the short-term trading space. The team are relaxed about your background and happy to consider someone from either a Data Scientist or Data Analyst history.
+
+
+
+The team are at the forefront of the energy revolution, driving innovation to power a sustainable future. Delivering reliable, affordable, and clean energy solutions to customers while reducing our environmental footprint.
+
+
+
+The business is already a well established leader within their domain. However, they like to keep team sizes quite small as they want people to have a major say and influence on projects.
+
+
+
+Technical Skills:
+
+Python - strong knowledge required
+Experience working across a range of ML models, e.g. TensorFlow and scikit-learn
+Commercial experience working on short-term forecasting markets, across either energy, power or financial markets.
+GitHub or Azure DevOps knowledge is desired
+SQL knowledge is desired
+
+
+The successful Data Scientist will earn up to £75,000 and in addition there are exceptional benefits which come as part of the overall package including: 15% Bonus, 7% Pension contribution, training fund, weekly team lunches, travel loans and numerous soft leisurely benefits. The team tends to come together 2 days a week for some collaboration, but only when it adds value to do so.
+
+
+
+Spencer Scott Ltd is an equal opportunity Recruitment Agency, which means we do not discriminate on the basis of race, colour, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression. We celebrate diversity and are committed to create inclusive working environments for all our clients.

@@ -1,0 +1,37 @@
+Senior Data Scientist - Credit Risk
+
+London – Hybrid
+
+Up to £80,000 + Benefits
+
+
+
+Our client is a high-growth fintech revolutionising consumer finance through cutting-edge technology and data science. Backed by top investors and consistently rated as a market leader, they are transforming the way loans, credit cards, and financial products are delivered - offering customers faster, more transparent, and seamless experiences.
+
+
+
+As a Senior Data Scientist, you’ll play a pivotal role in developing proprietary risk models that drive strategic decision-making and product innovation. Working within a multidisciplinary team, you’ll apply advanced machine learning techniques to improve underwriting quality and enhance financial product offerings.
+
+
+
+Key Responsibilities
+
+Build and refine credit risk models using state-of-the-art ML techniques.
+Translate business challenges into data-driven solutions.
+Deploy and monitor models autonomously, without reliance on a separate ML engineering team.
+Clearly communicate insights and recommendations to stakeholders.
+
+
+What We’re Looking For
+
+Strong Python experience, with knowledge of ML techniques.
+Familiarity with the credit industry, financial products, and data-driven risk modelling.
+Experience across Credit modelling, lending, PoD etc
+Strong educational background from a top university in a STEM subject
+A proactive problem solver who thrives in a fast-paced environment.
+Strong communication skills and a collaborative mindset.
+Interest in ML engineering and data engineering.
+Strong SQL skills.
+
+
+If this role looks of interest to you, please apply below, or reach out to Joseph Gregory

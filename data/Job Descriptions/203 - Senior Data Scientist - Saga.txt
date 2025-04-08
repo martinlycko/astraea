@@ -1,0 +1,98 @@
+Job Introduction
+
+Senior Data Scientist 
+
+Salary From £60,000 To £70,000 Depending On Experience
+
+Permanent 
+
+Hybrid / London 
+
+Here at Saga, we are embarking on a data transformation journey across all our established business units, Cruise, Insurance, Travel, Financial Services and Saga Magazine. This is a unique opportunity to make a group level impact with an access to rich data across all business units. You will be joining a high performing in-house Data Science team that specifically focusses on Marketing domain models.
+
+Working as one of our Senior Data Scientist at Saga, you will play a pivotal role in shaping our data strategy and driving the development of advanced analytics solutions. Your primary responsibility will be to harness the power of data to build predictive models, extract meaningful insights, inform strategic decisions, and contribute to the overall success of the organisation using machine learning and statistical techniques.
+
+You will have access to the latest analytical tools and the chance to work with some of the most renowned Decision Data leaders in the UK market.
+
+We work in a hybrid way at Saga both at home and in the office. When you do come into the office, it’ll be with a real purpose in mind – to meet with your team, to work together, and of course to socialise and celebrate too! Our Data Science team meet in London once a week and then in Kent once a quarter. 
+
+Role Responsibility
+
+Our Senior Data Scientist will be fully accountable for the following areas;
+
+Advanced Analytics & Modelling: Design, develop, and implement advanced machine learning algorithms and statistical models to solve complex business problems. Drive the exploration and adoption of cutting-edge data science techniques and technologies.
+Insights and Reporting: Extract actionable insights from large, complex datasets to guide business decision-making.
+Collaboration with Stakeholders: Working closely with business stakeholders and technical colleagues to understand data science requirements and integrate data science solutions into existing workflows & applications. Communicating effectively with both technical and non-technical counterparts. From start to finish of every project.
+Data Strategy and Model Governance: Collaborate with cross-functional teams to execute the company's data strategy. Ensure models are fair, explainable and in compliance with relevant regulations and policies.
+Project Management – Manage and deliver projects on time, to high standards. 
+Agile ways of working - Demonstrate experience in working in an agile environment, participating in sprint planning, and adapting to changing priorities.
+Continuous learning - Stay abreast of industry trends, emerging technologies, and best practices in data science and machine learning. Bring the most relevant ones back to SAGA and find ways to implement them to unlock business value. 
+
+The Ideal Candidate
+
+Working as a Senior Data Scientist at Saga, you will need to demonstrate the following skills and experience;
+
+Previously worked in a data science role for a large data rich organisation, with a track record of independent project delivery.
+Can demonstrate previous experience of working in a marketing domain or have the desire and enthusiasm to move into this area.
+Must be able to demonstrate strong programming skills in languages such as Python and SQL. (A technical task will form part of the interview process.)
+Already be a credible expert in machine learning, statistical modelling and data analysis.
+Demonstrate excellent communication skills with the ability to convey complex technical concepts to both technical and non-technical stakeholders – providing business recommendations within a marketing-based field.
+Experience with big data technologies and cloud platforms, ideally Azure.
+A curious nature, with the drive to learn and master new tech and methods.
+
+Desirable; 
+
+Previously worked in an agile working environment, with a focus on iterative and collaborative project delivery.
+Have worked with data visualisation tools e.g. Tableau.
+Experience in model monitoring. (MLOPS experience would be desirable.)
+Have gained a master's in a quantitative field such as Computer Science, Statistics or related disciplines.
+
+Saga Values: Make it Happen, Do the Right Thing, Customer First, Excellence Every Day,
+
+Our People Make Us Special
+
+Recruitment Process:
+
+Pre-screen call with the Head of Data Science. 
+Technical Python and SQL Task
+TEAMS Interview – Technical and competency
+Final meeting with our Director of Data Analytics and Decision Science
+
+Package Description
+
+Everyday our colleagues deliver exceptional experiences to our customers. We believe exceptional work deserves even more exceptional rewards, that's why we have put together an amazing benefits package for all colleagues.
+
+BENEFITS AVAILABLE TO ALL COLLEAGUES:
+
+25 days holiday + bank holidays
+Option to purchase additional leave up to 5 extra days
+Pension scheme matched up to 10%
+Company performance related annual bonus - Up to 5%
+Life assurance policy on joining us
+Wellbeing programme
+Colleague discounts including family discounts on cruises and holidays
+Range of reductions and offers from leading retailers, travel groups and entertainment companies
+Enhanced maternity and paternity leave
+Grandparents leave
+Income protection
+Access to Saga Academy, our bespoke learning platform
+
+About The Company
+
+Over the past 70 years we have become the UK's specialist provider of products and services to people aged over 50 in the UK. We’re one of the most recognised and trusted brands amongst UK consumers in this demographic, recognised for its high-quality products and exceptional standards of service. Our product portfolio includes cruises, holidays, insurance, personal finance products and our Saga Magazine.
+
+We aim to be the largest and most-trusted brand for older people in the UK. Our focus on delivering exceptional experiences empowers our colleagues to create moments that are personal and special for our customers and for each other. Our values underpin our approach and help guide us to deliver our purpose.
+
+We’re committed to making sure that colleagues can be their best, be themselves and make a difference – more than anywhere else. We do this by creating a truly inclusive culture, where all colleagues can bring their full and authentic selves to work and be treated with dignity and respect in an environment that is free from discrimination and harassment.
+
+Thanks to our people, Saga has been ranked 6th in the UK’s Best Employers 2025 by the Financial Times and Statista. This recognition, based on the voices of 20,000 employees across the UK, is a testament to the great culture we’ve built together. This award belongs to all our colleagues who collectively make Saga a fantastic place to work.
+
+We are champions of age inclusivity and signatories of the Age-Friendly Employer Pledge, we are proud of our multigenerational teams we have in place. We’re also a committed Disability Confident employer and ensure that our recruitment process is inclusive and accessible.
+
+Your application will have fair consideration, and you’ll receive personal communication throughout your applicant journey when you apply to join Saga.
+
+For more information on our DEI policies, colleague stories and other opportunities across the business, please visit Jobs and careers with Saga
+
+ Saga does not accept agency CVs unless specifically engaged on the role by the Talent Acquisition Team. Please do not forward CVs to our recruiters, employees or any other company location. Saga will not be responsible for any fees related to CVs received in this unsolicited manner. 
+
+Saga Group
