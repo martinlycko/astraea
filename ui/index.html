@@ -3,29 +3,41 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {
-  box-sizing: border-box;
-}
+  * {
+    box-sizing: border-box;
+  }
 
-.row {
-  display: flex;
-}
+  .row {
+    display: flex;
+  }
 
-/* Create two equal columns that sits next to each other */
-.column-nav {
-  flex: 15%;
-}
-.column-work {
-  flex: 70%;
-}
-
-
+  .column-nav {
+    flex: 15%;
+  }
+  .column-work {
+    flex: 70%;
+  }
 </style>
+
+<script>
+  documents = ['1', '2', '3', '4', '5'];
+  attributes = ['1', '2', '3', '4', '5']; 
+  themes = ['1', '2', '3', '4', '5'];
+
+  document.getElementById("themeslist").innerHTML = '<ul><li>' + themes.join("</li><li>"); + '</li></ul>';
+</script>
+
 </head>
 <body>
 
 
-<h2>Header Row</h2>
+<h2>Thematic Analysis</h2>
+<button onclick="myFunction()">Click me</button>
+<script>
+  function myFunction() {
+    document.getElementById("themeslist").innerHTML = '<ul><li>' + themes.join("</li><li>"); + '</li></ul>';
+  }
+</script>
 
 <div class="row">
   
@@ -34,7 +46,7 @@
             <h4 style="margin: 0px";>Documents</h4>
             <button type="button" onclick="AddDocument()">+</button>
         </div>
-        <div id="work-selector"></div>
+        <div id="documentlist"></div>
     </div>
 
     <div class="column-work" style="background-color:#bbb;">
@@ -45,9 +57,14 @@
     <div class="column-nav">
         <div style="background-color:#aaa; display: flex; justify-content: space-between;">
             <h4 style="margin: 0px;">Attributes</h4>
-            <button type="button" onclick="AddDocAttribute()">+</button>
+            <button type="button" onclick="AddDocAttribute()">+</button> 
+          </div>
+          <p id="attributelist"></p>
+        <div style="background-color:#aaa; display: flex; justify-content: space-between;">
+          <h4 style="margin: 0px;">Themes</h4>
+          <button type="button" onclick="AddDocAttribute()">+</button>
         </div>
-        <div id="work-selector"></div>
+        <div id="themeslist"></div>
     </div>
 
 </div>

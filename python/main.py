@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-jobs = pd.read_csv('Jobs.csv')
-SkillsLN = pd.read_csv('LinkedIn Skills.csv')
+jobs = pd.read_csv('./data/Jobs.csv')
+SkillsLN = pd.read_csv('./data/LinkedIn Skills.csv')
 
 
 jobs['Salary'] = (jobs['SalaryMin'] + jobs['SalaryMax']) / 2
