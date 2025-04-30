@@ -1,1 +1,495 @@
 ﻿JobID,Skill
+1,Salesforce
+1,SQL
+1,BI
+1,Combining Data
+1,Commercial Data
+1,Multitask
+1,Meeting Targets
+1,Looker
+2,Attention to detail
+2,Excel skills
+2,Communication
+2,Process improvement
+2,Collaboration
+2,Procurement
+2,Master data management
+2,Service Level Agreements
+2,Communication
+3,SQL
+3,Python
+3,Excel
+3,Visualisation
+3,Power BI
+3,Tableau
+3,Attention to detail
+3,Interpret data
+3,Presentation
+3,Problem Solving
+3,Diverse datasets
+4,Statistical analysis
+4,Data modelling
+4,Interpret data
+4,Project Management
+4,Bill of Materials
+4,Inventory
+4,IT Skills
+4,Excel
+4,Visualisation
+4,Power BI
+4,Power Query
+4,Azure
+4,SAP
+4,Automative
+5,Power BI
+5,DAX
+5,SQL
+5,Data Analysis
+5,ETL
+5,ELT
+5,Python
+5,Scripting
+5,Airflow
+5,Azure Cloud
+5,Data modelling
+5,Data warehousing
+5,Communication
+5,Collaboration
+5,Masters degree
+5,SAS
+5,Statistical software
+5,Data extraction
+5,Data cleansing
+5,Machine learning
+5,Communication
+5,Presentation
+6,Bachelors degree
+6,Python
+6,R
+6,SQL
+6,Visualisation
+6,Analytical
+6,Problem Solving
+6,Attention to detail
+6,Organisational skills
+6,Communication
+6,Teamwork
+6,Willingness to learn
+6,Adapt
+7,GCP
+7,Power BI
+7,Looker
+7,BigQuery
+7,LookML
+7,SQL
+7,PostgresSQL
+7,Python
+7,BI
+7,Data Engineering
+7,Energy markets
+8,Data Analysis
+8,Data cleansing
+8,Visualisation
+8,Reporting
+8,Stakeholder management
+8,Presentation
+8,Collaboration
+8,PowerPoint
+8,Excel
+8,Power BI
+9,SQL
+9,Data Studio
+9,BigQuery
+9,Teamwork
+9,Data Strategies
+9,Data mindset
+9,Data Analysis
+9,Data Engineering
+9,Support Juniors
+9,Google Analytics
+9,Python
+9,Stakeholder management
+9,Data collection
+9,Requirements gathering
+10,Data Analysis
+10,Data quality
+10,Insurance
+10,Delegate
+10,IT Skills
+10,Excel
+11,Teamwork
+11,Collaboration
+11,Masters degree
+11,Excel
+11,Mathematics
+11,Communication
+11,Deligence
+11,Think independantly
+11,Insurance
+12,SQL
+12,Power BI
+12,ESG Data
+12,Tableau
+12,SRSS
+13,Data Analysis
+13,Power BI
+13,SQL
+13,Python
+13,Excel
+13,MS Sharepoint
+13,MS Teams
+13,Finance
+13,Communication
+13,Presentation
+13,Stakeholder management
+13,Decision making
+13,Business Strategy
+13,German
+14,Python
+14,C#
+14,Energy markets
+14,Problem Solving
+14,Interpersonal skills
+14,Organisational skills
+14,Project Management
+14,Writing
+14,Data Analysis
+14,Presentation
+15,Subscriptions
+15,Power BI
+15,Analytics
+15,Stakeholder management
+15,Data Analysis
+15,DAX
+15,M Language
+15,Requirements gathering
+15,Segmentation
+15,Adobe Analytics
+15,Google Analytics
+15,Marketing
+15,Social Media
+15,SQL
+15,Data modelling
+15,Attention to detail
+15,Data quality
+15,data migration
+15,ETL
+15,data management
+15,Proactive
+15,Communication
+15,Degree
+16,Excel
+16,Visualisation
+16,Complex data
+16,Data Analysis
+16,Presentation
+16,Actionable insights
+16,Attention to detail
+16,Problem Solving
+16,Communication
+16,Stakeholder management
+16,Presentation
+16,Salesforce
+16,BI
+16,Independence
+16,Diplomatically
+17,SQL
+17,Python
+17,Automate
+17,Process improvement
+17,Energy markets
+18,analytical
+18,Collaboration
+18,degree
+18,Problem Solving
+18,Data modelling
+18,Data Analysis
+18,Visualisation
+18,excel
+18,Tableau
+18,Power BI
+18,sql
+18,Communication
+18,Presentation
+18,Complex data
+18,Stakeholder management
+18,time series analysis
+18,pattern recognition
+18,Automative
+18,Organisational skills
+18,Proactive
+18,Process improvement
+19,Data Analysis
+19,SQL
+19,R
+19,C++
+19,Python
+19,Visualisation
+19,Tableau
+19,Data Analysis
+19,segmentation
+19,predictive modelling
+19,optimisation
+19,Problem Solving
+19,proactive
+19,curious
+19,Communication
+19,Presentation
+19,Project Management
+19,Collaboration
+20,sql
+20,Python
+20,R
+20,experimentation
+20,product analytics
+20,Communication
+20,Stakeholder management
+21,Python
+21,R
+21,SQL
+21,analytical skills
+21,statistics
+21,predictive modelling
+21,Segmentation
+21,time series analysis
+21,Databricks
+21,Snowflake
+21,BigQuery
+21,Rigour/Accuracy
+21,Emapthy
+21,Data governance
+21,Data quality
+21,Attention to detail
+21,Jira/Confluence
+21,Documentation
+21,curious
+21,Business problems
+21,Storytelling
+21,Visualisation
+22,Support Juniors
+22,Artifical intelligence
+22,Project Management
+22,Independence
+22,qualitative methods
+22,quantitative methods
+22,Mathematics
+22,statistics
+22,Python
+22,Scikit lean
+22,Keras
+22,Tensor flow
+22,PySpark
+22,Teamwork
+22,MLOps
+22,Stakeholder management
+22,Communication
+22,Finance
+23,Masters degree
+23,Python
+23,SQL
+23,Communication
+23,Adapt
+23,Collaboration
+24,Machine learning
+24,Artifical intelligence
+24,Data science
+24,data management
+24,Statistics
+24,Requirements gathering
+24,quantitative methods
+24,NLP
+24,Image recognition
+24,OCR
+24,Motion capture
+24,Python
+24,R
+24,C++
+24,Numpy
+24,Pandas
+24,Matplotlib
+24,Scikit lean
+24,Tensor flow
+24,SQL
+24,noSQL
+24,Testing
+24,Stakeholder management
+25,Leadership
+25,Roadmap
+25,prototyping
+25,Project Management
+25,ERL
+25,data pipelines
+25,reporting
+25,analytics
+25,Visualisation
+25,Complex data
+25,Requirements gathering
+25,Communication
+25,Stakeholder management
+25,cross-functional
+25,Collaboration
+25,python
+25,C#
+25,OOP
+25,git
+25,DevOps
+25,CI/CD
+25,Data Engineering
+25,ETL
+25,data pipelines
+25,data transformation
+25,data cleaning
+25,databases
+25,APIs
+25,data architecture
+25,reporting
+25,BI
+25,Artifical intelligence
+26,degree
+26,python
+26,sql
+26,A/B testing
+26,marketing
+26,Machine learning
+26,statistics
+26,Tableau
+26,Visualisation
+26,databricks
+26,spark
+27,degree
+27,sql
+27,Python
+27,R
+27,Data Analysis
+27,data manipulation
+27,reporting
+27,Visualisation
+27,Tableau
+27,Power BI
+27,Complex data
+27,Presentation
+27,analytical
+27,Actionable insights
+27,Communication
+27,finance
+27,retail
+27,healthcare
+27,Machine learning
+27,predictive modelling
+27,Statistics
+27,Problem Solving
+27,proactive
+27,critical
+27,creative
+27,solution oriented
+28,insurance
+28,excel
+28,Attention to detail
+28,proactive
+28,Communication
+29,degree
+29,excel
+29,sql
+29,analytical
+29,Problem Solving
+29,Actionable insights
+29,relationship building
+30,Python
+30,R
+30,SQL
+30,Visualisation
+30,Power BI
+30,Tableau
+30,Stakeholder management
+30,Complex data
+30,Presentation
+30,Decision making
+30,Collaboration
+31,Data Analysis
+31,SQL
+31,python
+31,R
+31,NLP
+31,Visualisation
+31,Tableau
+31,Power BI
+31,Problem Solving
+31,Attention to detail
+31,Complex data
+31,AWS
+31,Azure
+31,Snowflake
+31,Version Control
+31,GitHub
+31,Documentation
+31,quantitative methods
+32,Business mindset
+32,quantitative methods
+32,Numerical
+32,statistics
+32,team player
+32,self-driven
+32,result oriented
+32,changing environment
+32,honest
+32,dependable
+32,willing to speak up
+32,python
+32,SQL
+32,R
+32,Excel
+32,Power BI
+32,Hadoop-Cloudera
+32,Degree
+32,optimisation
+32,Data science
+32,Data Analysis
+32,simulation
+33,Leadership
+33,analytical skills
+33,sql
+33,python
+33,sas
+33,finance
+33,Communication
+33,Stakeholder management
+34,sql
+34,Python
+34,data visualisation
+34,marketing
+34,Stakeholder management
+34,media
+35,data exploration
+35,Presentation
+35,Data cleansing
+35,data analysis
+35,Data modelling
+35,Visualisation
+35,Tableau
+35,Power BI
+35,Looker Studio
+35,Adobe
+35,Google Analytics
+35,Complex data
+35,data lakes
+35,AWS
+35,Azure
+35,Snowflake
+35,GPC
+35,Big Query
+35,Spark
+35,Splunk
+35,SQL
+35,R
+35,Python
+35,Scale
+35,Julia
+35,Stakeholder management
+35,Collaboration
+35,mentoring
+35,coaching
+35,leadership
+35,consultancy
+35,public sector
+35,deve;lop
+35,adapt

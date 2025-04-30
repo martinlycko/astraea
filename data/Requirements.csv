@@ -1,0 +1,1712 @@
+﻿JobID,Skill
+1,Salesforce
+1,SQL
+1,BI reporting tools
+1,Assembling disparate data sources
+1,Working with commercial data
+1,Multitask
+1,Commit to meeting targets across competing priorites and deadlines
+1,Google tools such as Looker
+2,Attention to details
+2,Excel skills
+2,Communicate effectively with stakeholders
+2,Identifying process improvements
+2,Collaborate with teams
+2,Master data management
+2,Develop and communicate SLAs
+3,SQL
+3,Python
+3,Excel
+3,Data visualisation
+3,Tableau
+3,Power BI
+3,Eye for detail
+3,Interpret complex data
+3,Present comples data
+3,Solving problems
+3,Working with diverse datasets
+4,Statistical analysis
+4,Data modeling
+4,Interpret complex data
+4,Microsoft 365
+4,Microsoft Excel
+4,Data visualisation
+4,Data manipulation
+4,Power BI
+4,Power Query
+4,Azure
+4,SAP
+4,Automative industry
+4,Ethusiasm
+4,Interpersonal skills
+4,Collaborate effectively with a variety of roles
+4,Hardworking
+4,Proactive
+4,Ambitious
+4,Self-motivated
+4,Delivery high performance
+4,Analytical thinking
+4,Solve problems
+4,Present information visually
+4,Organisational skills
+4,Manage multiple complex tasks
+4,Clear and confident communicator at all levels
+4,Flexible
+4,adatable
+4,Calm
+4,Focused under pressure
+5,Power BI
+5,DAX
+5,SQL
+5,Data analysis
+5,ETL/ELT processes
+5,Python scripting
+5,Airflow
+5,Azure
+5,Data modeling
+5,Data warehousing
+5,Communication
+5,Collaboration
+5,Masters degree
+5,SAS
+5,Statisticla Software
+5,Data extraction
+5,Data cleansing
+5,Machine learning algorithm and techniques
+5,Presentation
+6,Bachelors degree
+6,Data analysis tools
+6,Data analysis languages
+6,Python
+6,R
+6,SQL
+6,Generating meaningful and informative data visualisations
+6,Analytical capabilities
+6,Problem-solved capabilities
+6,Attention to detail
+6,Organisational skills
+6,Communication
+6,Teamwork skills
+6,Willingness to learn
+6,Adapt in fast-paced environment
+7,Looker
+7,Power BI
+7,BigQuery
+7,SQL
+7,Python
+7,Energy sector experience
+7,GCP
+7,Looker
+7,LookML
+7,Business intelligence
+7,Data engineer
+8,Experience as a data analyst
+8,Data cleansing
+8,Data analysis
+8,Data visualisation
+8,Reporting
+8,Worked across variety of accounts
+8,Stakeholder management skills
+8,Confident presenting to clients
+8,Collaborate with different teams
+8,PowerPoint
+8,Excel
+8,Power BI
+9,Data Analytics roles
+9,SQL
+9,Data Studio
+9,Google Big Query
+9,Work with different teams
+9,Build data strategies
+9,Promote data mindset
+9,Analyse data
+9,identify gaps
+9,Review data processes
+9,Support junior analysts
+9,GA4
+9,Python
+9,Stakeholder management skills
+9,Working with clients
+9,Gather data
+9,Gather requirements
+10,Data analysis
+10,Data quality
+10,Lloyd's insurance market
+10,Delegated authority
+10,Borderaux data
+10,IT skills
+10,Excel
+10,Eager to learn
+10,Insurance sector
+10,Bidind authority management
+11,Degree from top university
+11,Excel skills
+11,Mathematical background
+11,Relevant experience
+11,Master's degree
+11,Communication skills
+11,Diligence
+11,Think independently
+11,Insurance
+12,Power BI
+12,Tableau
+12,SSRS
+13,Data analysis
+13,Power BI
+13,SQL
+13,Python
+13,Excel
+13,Office 365
+13,SharePoint
+13,Teams
+13,Finance use cases
+13,Communication
+13,Presentation
+13,Stakeholder management skills
+13,Data-driven decision-making
+13,Business Strategy
+13,German
+14,Coding knowledge
+14,Python
+14,C#
+14,Energy power markets
+14,Problem-solving
+14,Impactful tools
+14,interpresonal
+14,Organisational skills
+14,project management skills
+14,Writing skills
+14,data analysis skills
+14,presentation skills
+15,Insight analysis
+15,Data models
+15,Automated reporting
+15,Power BI
+15,Data and analytics flows
+15,Engage with audience
+15,Engage with stakeholders
+15,Understand data
+15,Insights requirements
+15,Data/audience analytics
+15,Adobe Analytics
+15,GA
+15,Marketing
+15,Targeting
+15,Social media platforms
+15,DAX
+15,M
+15,SQL
+15,non-SQL
+15,Attention to details
+15,Thoroughness
+15,Data quality assessment
+15,Ad hoc analysis
+15,Data migration
+15,ETL processes
+15,Data management
+15,Relational data models
+15,Confident
+15,Motivated
+15,Proactive
+15,Focussed on business objectives
+15,Strong communicator
+15,Think data end-to-end
+15,Degree educated
+16,Excel
+16,data visualisation tools
+16,Data cleansing
+16,Statistical analysis
+16,Data manipulation
+16,Analyse complex data
+16,"Present in clear, actionable format"
+16,Attention to detail
+16,Problem-solving skills
+16,Communication skills
+16,Interact with stakeholders
+16,Present findings
+16,Data systems and platforms
+16,Salesforce
+16,Business intelligence tools
+16,Business intelligence methodologies
+16,Work independently
+16,Minimal supervision
+16,Interacting diplomatically
+16,Polite
+16,professional
+17,SQL
+17,Python
+17,Manage data workflows
+17,Automate data workflows
+17,Automate core business processes
+18,Analytical midnset
+18,Degree
+18,Analytical skills
+18,Problem-solving skills
+18,Data modelling
+18,Data analysis
+18,Visualisation tools
+18,Excel
+18,Tableau
+18,Power BI
+18,SQL
+18,Communication skills
+18,Present complex insights
+18,Large data sets
+18,Extracting meaningful trends and patters
+18,Automotive sector
+18,Organised
+18,Self-motivated
+18,Proactive
+18,Improving processes
+19,Data Analytics roles
+19,SQL
+19,Relational data models
+19,C++
+19,Python
+19,Data visualisation tools
+19,Tableau
+19,Analytics techniques
+19,Segmentation
+19,Predictive modelling
+19,Optimisation
+19,Communication
+19,Presentation 
+19,Managing end-to-end analytics projects
+19,Collaborative
+20,SQL
+20,Python
+20,Relational data models
+20,Product analytics
+20,Experimentation
+20,Communication skills
+20,Stakeholder management
+21,Python
+21,R
+21,SQL
+21,Analytical skills
+21,Statistical understanding
+21,Predictive modelling
+21,Segmentation
+21,Time-series analysis
+21,Cloud based analytic platforms
+21,Databricks
+21,Snowflake
+21,Google Big Query
+21,Accuracy
+21,Rigour
+21,Data governance
+21,Data Quality
+21,Attention to detail
+21,Jire/Confluence
+21,Manage workloads
+21,Documentation
+21,Curious
+21,Commercial lens
+21,Prioritising actions and usefulness of outputs
+21,Storyteller
+21,Technology and trends
+22,Coaching junior data scientists
+22,Leading junior data scientists
+22,Complex AI project
+22,Minimal supervision
+22,Best practices
+22,Extracting business value
+22,Qualitative metrics
+22,Quantitative metrics
+22,Mathematical background
+22,Statistical background
+22,Python
+22,Data science packages
+22,Skikit learn
+22,Keras
+22,TensorFlow
+22,PySpark
+22,Mixed technical teams
+22,MLOps
+22,Stakeholder communication skills
+22,Financial industry
+22,Insurance 
+23,MSc or PhD Degree
+23,Coding skills
+23,Python
+23,SQL
+23,Communication skills
+23,Fast-paced environment
+23,Collaborative environment
+24,Data Scientist
+24,Developing ML/AI projects
+24,Productising ML/AI projects
+24,Data science techniques
+24,Managing data
+24,Implementing data science processes
+24,Statistics
+24,Machine learning
+24,customer requirements
+24,Quantitative models
+24,Natural Language processing (NLP)
+24,Random Forests
+24,CatBoost
+24,LXGM
+24,Image Recognition
+24,Optical Character Recognition (OCR)
+24,Motion Capture
+24,Python
+24,R
+24,C++
+24,Numpy
+24,Pandas
+24,Matplotlib
+24,Skikit learn
+24,TensorFlow
+24,Database protocals
+24,SQl
+24,noSQL
+24,Testing routines and procedures
+24,Customer relationships
+24,Stakeholder relationships
+24,Authoring technical reports
+24,Presenting to customers
+24,Docker
+24,Kubernetes
+24,Computer Vision
+25,Programming
+25,OOP
+25,Python
+25,C#
+25,Git
+25,DevOps concepts
+25,CI/DE
+25,Data Engineering
+25,ETL pipelines
+25,transforming data
+25,cleaning data
+25,databases
+25,APIs
+25,data architecture decisions
+25,data visualisation
+25,reporting
+25,dashboards
+25,conduct analytics
+25,communcating findings
+25,AI development
+25,AI tools
+25,AI applications
+25,GenAI
+25,product management
+25,stakeholder engagment
+25,developing requirements
+25,managing a product roadmap
+25,Self-motivated
+25,project management skills
+25,manage own time
+25,manage team
+25,Agile/Sprint framework
+26,MSc degree
+26,Python
+26,SQL
+26,A/B testing
+26,marketing campaigns
+26,machine learning
+26,statistical knowledge
+26,Tableau
+26,data visualisation skills
+26,Spark
+26,Databricks
+27,Bachelors degrees
+27,data analysis tools
+27,SQL
+27,Python
+27,R
+27,data analysis
+27,Data manipulation
+27,reporting
+27,data visualisation skills
+27,Tableau
+27,Poewr BO
+27,present complex data
+27,analytical mindset
+27,interpret complex datasets
+27,drawing clean and actionable conclusions
+27,communication skills
+27,conveying technical information
+27,industry experience
+27,advanced analytical skills
+27,machine learning techniques
+27,Predictive modelling
+27,statistical analysis
+27,problem-solving approach
+27,proactive
+27,solution-oriented mindset
+27,think critically
+27,think creatively
+28,insurance
+28,Excel
+28,digital transformation
+28,agile workflows
+28,detail-oriented
+28,self-motivation
+28,proficient
+28,communication
+29,Bachelors degrees
+29,quantitative methods
+29,analytical languages
+29,analytical software
+29,Excel
+29,SQL
+29,analytical skills
+29,problem-solving
+29,actionable insights
+29,work ethic
+29,building good relationships
+30,Python
+30,R
+30,SQL
+30,data visualisation tools
+30,Power BI
+30,Tableau
+30,engage senior stakeholders
+30,present complex findings clearly and accessible
+30,influence decision-making
+30,collaborate
+30,positively contribute
+31,Data analysis
+31,Delivery successful projects
+31,consulting
+31,SQL
+31,programming languages
+31,Python
+31,R
+31,Natural Language processing (NLP)
+31,advanced data visualisation tools
+31,Tableau
+31,Power BI
+31,presenting insights
+31,problem-solving skills
+31,attention to detail
+31,interpret complex requirements
+31,AWS
+31,Azure
+31,Snowflake
+31,version control tools
+31,GitHub
+31,documenting methodologies
+32,business mindset
+32,quantitative analysis
+32,numerical analysis
+32,statistical analysis
+32,team player
+32,positive attitude
+32,self-driven
+32,result oriented
+32,operate under pressure
+32,changing environment
+32,honest
+32,dependable
+32,willing to speak up
+32,Python
+32,SQL
+32,R
+32,Excel
+32,Power BI
+32,Hadoop-Cloudera
+32,Academic degree
+32,Financial crime
+32,Optimisation algorithms
+32,Good statistical knowledge
+32,Analytical mindset
+32,data science
+32,data analysis
+32,simulation
+33,System Analytical Lead role
+33,Lead on analytics projects
+33,data analytical skills
+33,SQL
+33,Python
+33,SAS
+33,finance
+33,communication skills
+33,Stakeholder management skills
+34,SQL
+34,Python
+34,data visualisation
+34,customer or marketing analytics
+34,stakeholder management skills
+34,media
+35,data analyst
+35,exploring data
+35,summarising data
+35,presenting data
+35,data cleansing
+35,data anlysis
+35,data modelling
+35,data visualisation
+35,Tableau
+35,Power BI
+35,Looker Studio
+35,web analytics platforms
+35,Adobe Analytics
+35,Google Analytics
+35,data warehouses
+35,data lakes
+35,cloube based analytical platforms
+35,AWS
+35,Azure
+35,Snowflake
+35,Google Cloud Platform
+35,Big Query
+35,Spark
+35,Splunk
+35,SQL
+35,R
+35,Python
+35,Scala
+35,Julia
+35,Relevant frameworks/libraries
+35,Stakeholder management skills
+35,Interpret and advise upon client requirements
+35,Collaboration skills
+35,Data advocate
+35,mentoring and coaching skills
+35,up-skilling junior analyst
+35,public sector
+35,consulting
+36,Data analysis
+36,business intelligence
+36,Power BI
+36,DAX
+36,data modelling
+36,SQL
+36,querying
+36,data transformation
+36,Azure SQL Databases
+36,data warehousing methodologies (Kimball/Inmon)
+36,communication
+36,Stakeholder management skills
+36,SaaS
+36,Azure Data Factory
+36,Advanced analytics
+37,Marketing funnel
+37,Media
+37,bringing analysis to life
+37,Media optimisations
+37,R
+37,Eviews
+37,VBA Excel
+37,statistical techniques
+37,optimisation techniques
+37,value to clients
+37,Supporting junior team members
+37,Ensuring quality of deliverables
+37,Meeting timelines
+37,Google Advertising tools
+37,Services internal/external commercial clients
+38,SQL
+38,Python
+38,Power BI
+38,Tableau
+38,Cloud Environments
+39,Customer Data Analytics
+39,Oral communication skills
+39,Written communication skills
+39,Presenting data
+39,Storytelling
+39,Microsoft Customer Insights
+39,microsoft Fabric
+39,Social Media Insights
+39,Email marketing analytics
+39,SQL
+39,SAS
+39,Python
+39,R
+39,Web analytics tools
+39,AI tools
+39,Co Pilot
+39,Line management skills
+39,Mentoring skills
+40,Managing data
+40,Cleaning data
+40,Abstracting data
+40,Aggregating data
+40,Ensuring data accuracy and integrity
+40,"Identify , collect and migrate complex datasets"
+40,Summarising data
+40,Presenting data
+40,actionable insights
+40,Strategic recommendations
+40,Advanced analytical techniques
+40,Data mining
+40,time series analysis
+40,forecasting
+40,modelling
+40,Collaborating
+40,Gather requirements
+40,Deliver findings
+40,Working under guidance
+40,Mentoring and managing data analysts
+40,Fostering continuous development
+40,Microsoft 365
+40,API
+41,Data visualisation
+41,Tableau
+41,SQL
+41,Communication
+41,Stakeholder management 
+41,Consultancy
+41,ETL processes
+42,Conveying data insights
+42,Python
+42,Reporting
+42,Data manipulation
+42,Larges volumes of data
+42,Complex datasets
+42,Data analysis
+42,Data visualisation
+42,AWS QuickSight
+43,SQL
+43,Tableau
+43,Stakeholder communication
+44,Data analysis
+44,Snowflake
+44,dbt
+44,Python
+44,Tableau
+44,Metabase
+44,Problem-solving skills
+44,Communicate clearly
+44,Complex insights
+44,Working with skakeholders
+44,Drive business solutions
+44,Technical expertise
+44,Mentor junior team members
+44,Financial services
+45,SQL
+45,Python
+45,data analysis
+45,data manipulation
+45,engineering
+45,Fortran
+45,media/TV
+46,Cross functional teams
+46,fast-moving
+46,Think strategically
+46,Unlock value for customers
+46,Mentoring other data scientists and analytics engineers
+46,Experimentation
+46,Data techniques
+46,Solve challenging problems
+46,Nuances of data
+46,Lay key foundational knowledge
+46,Optinionated
+46,Measuring success
+46,Challenge the status pro
+47,Masters degree
+47,Data analysis
+47,Statistical analysis
+47,Large datasets
+47,Unstructured datasets
+47,Data science
+47,Machine learning engineering
+47,Delivering high-quality data science solutions
+47,Stakeholders
+47,Deploying machine learning solutions into production
+48,Senior Insights Analyst
+48,Lead Insights Analyst
+48,Commercial outlook
+48,Adding value to businesses
+48,Stakeholder management
+48,Experimentation
+48,Personalisation
+48,SQL
+49,Leading technical work
+49,Develop machine learning models
+49,Deploy machine learning volumes
+49,Tackling real business problems
+49,Demonstratable impact
+49,Fast moving
+49,Tech company
+49,graph-based ML
+49,sequence-based ML
+49,End-to-end journey
+49,Mentoring other ML practitioners
+49,Sharing knowledge
+49,Raising the technical bar
+49,Self-starter mindset
+49,Proactively identify the most impactful issues
+49,Collaborative
+49,Advanced machine leanring techniques
+49,Directly improve customer support expeirence
+49,Optimise routing and prioritisation
+49,Writing python code
+49,SQL
+49,Lean go land
+49,Backend microservices
+49,Ambiguous problems
+49,Resolve ambiguity
+49,Building a product
+49,Product mindset
+49,Proiritise customer outcomes
+49,data-informed decisions
+49,Communicate ideas to collegues
+49,Adaptable
+49,Curious
+49,Learning new technologies and ideas
+49,Operations
+49,Financial crime
+49,Regulated industries
+49,Production code
+49,Microservices
+50,SQL
+50,Python
+50,R
+50,Insurance industry
+50,Price comparison
+51,Business intelligence (BI) Analyst
+51,MySQL
+51,Querying databases
+51,Managing databases
+51,Optimising databases
+51,Create insightful and impactful dashboards
+51,Tableau
+51,Communication skills
+51,Share insights
+51,Collaborate with wider team
+51,Support business objectives
+51,Good grasp of statistical methods
+51,Enhance data analysis
+51,Enhance data interpretation
+51,PHS
+51,Service-side scripting
+51,Python
+52,English
+52,SQL
+52,BI Tools
+52,Tableau
+52,Power BI
+52,QlikSense
+52,Adobe Analytics
+52,Segmentation
+52,Data Layer Understanding
+52,Web Data Collection
+52,D2C Experience
+52,Stakeholder engagement
+52,Interface between business users and technical teams
+52,Managing output pipeline
+52,Prioritise and triage advanced requests
+52,Multiple business-side stakeholders
+52,Requirements gathering
+52,Converting end user requests into meaningful and efficient requirements
+52,Check dev outputs
+52,Coordinate UAT
+52,Reconciliation vs master data sources and new outputs
+52,Sniff out non-credible outcomes
+52,Own escalation and resolution
+52,QA screening before getting business involved
+52,Recommend projects
+52,Enahance insihgts capability
+52,Turn recommendation into tangible technical requirements
+53,Reporting
+53,Visualisation tools
+53,Power BI
+53,Tableau
+53,SQL
+53,Providing Key insights
+53,Communication skills
+54,Data governance
+54,Data management
+54,Data quality principles
+54,Interpret and work with data schemas
+54,Snowflake schemas
+54,Data governance tools
+54,Microsoft Purview 2.0
+54,Conduct business process mapping
+54,Stakeholder management skills
+54,Influence
+54,Collaborate
+54,Retail industry data processes
+54,Global or matrixed organisation
+54,Certification in data governance or manegement frameworks
+55,Analytical skills
+55,Root cause analysis
+55,Business process analysis
+55,Data gathering
+55,Verbal communication skills
+55,Written communication skills
+55,Communicate effectively
+55,Relationship-building
+55,Stakeholder management
+55,Prioritise business value
+55,Outcomes over solutions
+55,Breaking down silos
+55,Fostering collaboration
+55,Facilitation skills
+55,Leading workshops
+55,Diverse user representatives
+55,Microsoft Office
+55,Word
+55,Excel
+55,Visio
+55,Presentation
+55,Convery ideas
+55,Persuasive
+55,Business specifications
+55,Finacial Services
+55,Project lifecycle
+55,technology infrastructures
+56,MI/BI solutions
+56,Power BI
+56,Reporting design
+56,Collaborating
+56,delivering data solutions
+56,Business Intelligence Analyst
+56,Data Analyst
+56,Business Analyst
+56,Partnering with business teams
+56,Delivering required data
+56,Gain insight into busines performance
+56,Provide solutions fo regulatory and reporting requirements
+57,Data professional
+57,Making a difference
+57,Creative solutions
+57,Wide variety of projects
+57,Dynamic environment
+57,Plenty of change
+57,Expanding data sets
+57,conversation
+57,technology
+57,communicate
+57,stakeholders
+58,Delivering transformation
+58,Improving data maturity
+58,Drive business change
+58,Technical leadership
+58,Technical management
+58,Data warehousing
+58,Date modelling
+58,Dashboards
+58,Reporting
+58,Visualisation development
+58,professional qualifications or CPD
+58,end-to-end data architecture
+58,BI
+58,visualisation
+58,enterprise reporting services
+58,ETLs
+58,data pipelines
+58,data management
+58,data governance
+58,people management
+58,idenitfy required skills
+58,support staff development
+58,undergraduate degree
+58,leading reporting service
+58,strengthening PowerBI across organisational
+58,functional standards
+58,competency frameworks
+59,Fabric
+59,Power BI
+59,SQL
+59,communicational
+60,T-SQL
+60,Coding skills
+60,maniapulating data
+60,analysing market data
+60,statistical modelling
+60,BI development
+60,reuglated environment
+60,insurance
+60,Financial services
+61,Commercially savvy
+61,Diligent
+61,Driven
+61,Proactive
+61,Data skills
+61,Programming skills
+61,Python
+61,SQL
+61,Excel
+61,Team player
+61,Friendly
+61,Collaborative
+61,Software
+61,consultancy
+61,corporate development
+61,statistical
+61,company benchmarking
+61,AI
+61,attention to detail
+61,graduate
+61,post graduate
+61,data pipelines
+61,data acquisition tools / techniques
+61,APIs
+61,web scrapers
+61,web crawlers
+61,RPA
+62,Power BI
+62,SQL
+62,role-based security
+62,incremental refreshing
+62,version control
+62,SQL
+62,joins
+62,windowing functions
+62,performance optimisation
+62,finacial services
+62,autonomous work style
+62,manage tasks independently
+62,innovative
+62,Fast-paced environment
+63,SQL
+63,cloud-based platforms
+63,BigQuery
+63,Model data
+63,Join data sources
+63,Sheets
+63,Looker Studio
+63,Clear and concise reporting
+63,Manage process end-to-end
+63,Passion for data
+63,Confident
+63,Communication
+63,Desire to learn
+63,Take on new projects
+63,BI tools
+63,Tableau
+63,Power BI
+63,Digital or Marketing analyst
+63,Google Analytics
+63,Product analytics
+63,Experimentation
+63,Python
+63,statistical modelling
+63,ML/AI
+63,Google Dataform
+63,dbt
+64,Similar role
+64,Large datasets
+64,Complex datasets
+64,Problem solving
+64,Excel
+64,Client engagment
+64,Stakeholder management
+64,Create analysis
+64,Confident
+64,Presenting findings
+64,Work as part of a wider team
+64,Self-motivated
+65,Analytical role
+65,Vast data sets
+65,Complex datasets
+65,Procurement
+65,Supply chain
+65,Ecommerce/Retail
+65,Mentoring
+65,Managing junior analysts
+65,Problem solving
+65,Excel
+65,Python
+65,Snowflake
+65,Initiative
+65,Work with vague/ambiguous information
+65,Create analysis
+65,Present findings
+65,Confident
+67,Digital marketing analytics
+67,Analytics delivery
+67,Power BI
+67,SQL
+67,Python
+67,Azure
+67,Snowflake
+67,Google Analytics
+67,communication
+67,Creative problem solver
+67,Critical thinking
+67,Organisational skills
+67,Time management skills
+67,Automotive
+67,Bachelors degrees
+67,Level 4+ apprenticeship in Data Analytics
+67,Microsoft certifications
+67,Azure certifications
+67,Power BI Data Analyst Associate
+68,Insights role
+68,Build insights
+68,Tell stories with data
+68,Consumer insights
+68,Consumer analytics
+68,Market research
+68,Marketing
+68,Retail
+68,FMCG
+68,Consultance
+68,Relationship building
+68,Passion for numbers
+68,Passion for the customer
+69,Experience in a similar role
+69,Large datasets
+69,Complex datasets
+69,Problem solve
+69,Excel
+69,Procurement
+69,Supply chain
+69,Client engagement
+69,Stakeholder management
+69,Create analysis
+69,Confident
+69,Presenting findings
+69,Work as part of a wider team
+69,Self-motivated
+70,SQL
+70,Large volumes of data
+70,Variety of tools
+70,Combining data sets
+70,Building data models
+70,Create reports
+70,Deliver insights
+70,Power BI
+70,Pull together data sets
+70,Build reports from data
+70,Data visualisation
+70,Data analysis
+70,problem-solving
+70,Microsoft Office
+70,Excel
+70,Communicate effectively
+70,Degree level
+71,Curious
+71,Answer business questions
+71,Collect data
+71,transform data
+71,schedule
+71,monitor statistics
+71,machine learning
+71,analytical expertise
+71,best practices
+71,develop a business-wide culture
+71,orchestrating projects
+71,roadmap
+71,agile
+71,cross-functional teams
+71,statistical interference
+71,statistical modeling
+71,data modelling
+71,programming 
+71,python
+71,R
+71,storytelling
+71,critical thinking
+71,data science methods
+71,developing analysts
+71,Fostering collaboration
+71,Senior or Principal Data Analyst
+72,Alteryx
+72,BI reporting
+72,data visualisation
+72,Looker
+72,financial terms and definitions
+72,sport betting
+72,SQL modelling
+72,querying databases
+72,relational databases
+72,adhering to best practices
+72,ETL tools
+72,professional
+72,proactive
+72,Time management skills
+72,Organisational skills
+72,multi-tasking
+72,proactive
+72,innovative mindset
+72,identify process improvements
+72,assists in improvement implementation
+72,Communication skills
+72,flexible
+72,changing environment
+72,Fast-paced environment
+73,consulting
+73,capability depth and breadth
+73,digital data tools
+73,social listening tools
+73,search keyword tools
+73,web traffic tools
+73,project management
+73,project delivery
+73,stakeholder management
+73,communication
+73,teamwork
+73,Analytical skills
+73,attention to detail
+73,commercial acumen
+73,Think strategically
+74,variety of data sets
+74,survey results
+74,qualitative informational
+74,Large datasets
+74,Complex datasets
+74,advanced data analysis
+74,Power BI
+74,Excel
+74,reporting
+74,data visualisation
+74,project management
+74,project delivery
+74,quantitative data analysis
+74,qualitative data analysis
+74,impact methodologies
+74,survey design
+74,survey techniques
+74,communicate
+74,inspire
+74,prioritise
+74,digital capability
+74,eye for detail
+74,delivery results
+75,data analysis
+75,Power BI
+75,dax
+75,Power Query
+75,Excel
+75,MS Office
+75,SQL
+75,Microsoft T-SQL
+75,attention to detail
+75,meticulous
+75,Communicate effectively
+75,Team player
+75,proactive
+75,initiative
+75,work to deadlines
+75,multi-task
+75,prioritise
+75,manage projects
+66,People data and metrics
+66,data insights
+66,data analytics
+66,data modelling 
+66,Power BI
+66,bring insights to life
+66,visual analytics
+66,data strorytelling
+66,extracting data
+66,analysing data
+66,range of stakeholders
+66,actionable outcomes
+66,predictive analytics
+66,sentiment analytics
+66,GDPR
+66,confidentiality
+66,data governance 
+66,compliance frameworks
+66,Excel
+66,manipulate data
+66,analyse data
+66,interrogate data
+66,SQL
+66,programming languages
+66,DAX
+66,regulated environment
+76,data science
+76,senior or lead position
+76,managing high performing senior teams
+76,empathetic leader
+76,managing data scientists
+76,strong strategic data leader
+76,drive business decisions
+76,explore business problems
+76,structuring complex projects
+76,thinking strategically
+76,proactive
+76,identifying opprortunities
+76,building relationships
+76,working together
+76,collaborating
+76,variety of data science tools
+76,business intelligence
+76,experimentation
+76,causal interference
+76,machine learning
+76,python
+76,sql
+76,coding languages
+76,pick the right tool
+76,help others
+77,data science
+77,senior or lead position
+77,managing high performing senior teams
+77,empathetic leader
+77,managing data scientists
+77,strong strategic data leader
+77,drive business decisions
+77,explore business problems
+77,collaborating
+77,variety of data science tools
+77,business intelligence
+77,experimentation
+77,causal interference
+77,machine learning
+77,python
+77,sql
+77,coding languages
+77,pick the right tool
+77,help others
+78,modern technologies
+78,Python
+78,Pyspark
+78,Databricks
+78,SQL
+78,cloud computing
+78,Azure
+78,loyalty schemes
+79,SQL
+79,Python
+79,software engineering
+79,data engineering
+79,statistical models
+79,machine learning models
+79,gradient boosted trees
+79,logistic regression
+79,neural networks
+79,survival analysis
+79,statistics
+79,hypothesis testing
+79,confidence intervals
+79,bootstrap
+79,end-to-end model development
+79,maintenance of ML models
+79,regulated industry
+79,attention to detail
+79,big picture
+79,communication skills
+79,complex problems
+79,build mutual respect
+79,Google Cloud Platform
+79,BigQuery SQL
+79,dbt
+79,PyData
+79,Google AI platform
+79,AWS
+79,Goland
+79,result oriented
+79,motivated
+79,impact customers and business
+79,autonoy
+79,Fast-paced environment
+80,IFRS 9 impairments
+80,credit models
+80,validation
+80,monitoring
+80,driver analyses
+80,analytical skills
+80,delivery technical projects
+80,technical toolskit
+80,SQL
+80,Python
+80,R
+80,Tableau
+80,data visualisation
+80,PowerBI
+80,Looker
+80,convery problems and solutions
+80,communicating complex issues
+80,driven
+80,eager
+80,Self-starter mindset
+80,proactive
+80,identify issues and opportunities
+80,team player
+80,can rely on
+81,data analysis skills
+81,Complex datasets
+81,Excel modelling
+81,statistical modelling
+81,statistical methods
+81,statistical techniques
+81,data visualisation
+81,Tableau
+81,data manipulation
+81,SQL
+81,NoSQL
+81,Alteryx
+81,programming
+81,Python
+81,R
+81,Data science techniques
+81,text analysis
+81,Hadoop
+81,social research methods
+81,focus groups
+81,workshops
+81,survey design
+81,key informant interviews
+81,"monitoring, evaluation, and learning frameworks"
+81,data analysis process
+81,problem indentification
+81,problem structuring
+81,data collection
+81,data storage
+81,data investigation
+81,exploratory analysis
+81,data cleaning
+81,data investigation
+81,data analysis
+81,data modelling
+81,visualisation
+81,communication
+81,project management
+82,data analytics role
+82,interpret complex datasets
+82,actionable insights
+82,data visualisation
+82,PowerBI
+82,tableau
+82,communication skills
+82,collaboration skills
+82,engage stakeholders
+82,work under pressure
+82,meet tight deadlines
+82,quality of work
+82,Economic crime prevention
+83,delivery data to customers
+83,reporting
+83,financial services
+83,agile working
+83,Excel
+83,Power BI
+83,SQL
+83,ETL tools
+83,data structuring concepts
+83,numerate
+83,investigative
+83,root of problems
+83,not accept first answer
+83,identifying problem
+83,analysing problems
+83,indentifying options
+83,evaluating options
+83,decision-making skills
+83,large datasets
+83,multiple datasets
+83,data manupulation
+83,complex formulas
+83,balancing time and accuracy
+83,stakeholder management
+84,Data science manager
+84,managing a team larger than 4 people
+84,strong strategic data leader
+84,drive decisions
+84,working with executives
+84,managing stakeholders
+84,manage top tier data talent
+84,work autonomously
+84,impact the business
+84,evolving business
+84,data science tools
+84,business intelligence
+84,experimentation
+84,causal interference
+84,machine learning
+84,coding languages
+84,Python
+84,SQL
+84,pick the right tool
+84,help others
+84,financial crime
+84,fraud detection
+85,Adobe Analytics
+85,client-facing experience
+85,agency experience
+85,consultancy role
+86,production level python
+86,investment bank
+86,Masters degree
+86,PhD degree
+86,programming skills
+86,Python
+86,DDB+/q
+86,C++
+86,JavaScript
+86,visualisation tools
+86,Angular
+86,React
+86,problem-solving abilities
+86,pricing models
+86,quantitative techniques
+87,probablistic models
+87,sporting industry
+88,translate complex technical concepts
+88,internal and external stakeholders
+88,data profiling
+88,system analysis
+88,presenting insights
+88,enhance data use
+88,explore opportunities
+88,data modelling
+88,maintain models
+88,metadata repositories
+88,data stays accurace and up-to-date
+89,degree
+89,data extraction
+89,data analysis
+89,communication skills
+89,Manage workloads
+89,independence
+89,prioritise workload
+89,collaborative
+89,problem-solving skills
+89,committed to EDI
+90,SQL
+90,GA4
+90,Google Tag Manager
+90,BigQuery
+90,digital analytics
+90,stakeholder management
+91,Power BI
+91,DAX
+91,Python
+91,Managing project
+91,Managing client expectations
+91,Contributing towards client proposals and presentations
+91,client-facing experience
+91,R
+92,client relationship management
+92,managing interactions
+92,managing projects
+92,deliverying beyond expectations
+92,nurture relationships
+92,identify and seize new opportunities
+92,enhance agency reputation
+92,leadership
+92,talent development
+92,mentor and guide
+92,championing high performance culture
+92,championing continuous professional growth
+92,promote excellence in project delivery
+92,promote learning environment
+92,developing analytical methods
+92,variety of analytical tools
+92,variety of analytical techniques
+92,R
+92,SQL
+92,Python
+92,Excel
+92,PowerPoint
+92,craft compelling presentations
+92,delivery exceptional insights
+92,quality assurance
+92,outputs meet highest standards of accuracy
+92,outputs relevant and tailored to client's specific needs
+93,data engineering
+93,analytics engineering
+93,collaborative
+93,curious
+93,tackle complex challenges
+93,dbt
+93,SQL
+93,Python
+93,Snowflake
+94,Managing high perforning engineers
+94,mentoring
+94,data warehousing architecture at scale
+94,data warehousing
+94,data visualisation
+94,big data
+94,ETL projects
+94,hire great engineers
+94,leading a team
+94,finance
+94,regulated environment
+94,BigQuery
+94,Looker
+95,SQL
+95,Excel
+95,data visualisation
+95,tableau
+95,Power BI
+95,analytical skills
+95,data segmentation
+95,data visualisation
+95,luxury fashion
+95,luxury goods
+95,proactive
+95,data quality
+95,data accuracy
+95,attention to detail
+95,actionable recommendations
+95,complex data
+95,collaborative
+95,communication
+96,large volumes of data
+96,customer data
+96,loyalty programs
+96,visualisation tools
+96,tableau
+96,Power BI
+96,SQL
+96,Python
+97,Customer Data Analytics
+97,communication skills
+97,presenting data interpretation
+97,presenting data insights
+97,data storytelling techniques
+97,Microsoft Customer Insights
+97,Microsoft Customer Data
+97,Microsoft Fabric
+97,social marketing insghts
+97,Email marketing analytics
+97,SQL
+97,SAS
+97,Python
+97,R
+97,web analytics tools
+97,AI tools
+97,Co Pilot
+97,Line management skills
+97,mentoring skills
+98,Organising customer events
+98,business analytics
+98,B2B customer data
+98,IT industry
+98,retail
+98,finance
+98,analyticas technical skills
+98,SQL
+98,SAS
+98,tableau
+98,Excel
+98,PowerPoint
+98,presentation skills
+99,managing teams of 4 or more professional
+99,owning machine learning systems in production
+99,ML systems
+99,design ML systems
+99,solve business problems
+99,communicate
+99,collaborating
+99,stakeholders
+99,product teams
+99,implement ML systems
+99,helping others achieve their goals
+99,empathetic leadership style
+99,"build strong, effective relationships"
+99,ambiguous problems
+99,product mindset
+99,prioritise customer outcomes
+99,data-informed decisions
+99,adaptable
+99,curious
+99,enjoy learning new technologies
+100,tableau
+100,data visualisation
+100,report building
+100,Power BI
+100,Python
+100,hedge fund
+100,investment decisions
+100,valuations
+100,performance reporting
+100,trade lifecycle
+101,similar role
+101,financial industry
+101,manage raw datasets
+101,transform raw datasets
+101,actionable insights
+101,asset classes
+101,data ventors
+101,broader industry data
+101,interrogating vendor data endpoints
+101,Python
+101,SQL
+102,PhD graduates
+102,mathematical abilities
+102,analytical abilities
+102,problem-solving abilities
+102,programming
+102,Python
+102,C++
+102,data-intensive problems
+102,complete statistical research
+102,statistics
+102,mathematical competitions
+102,quantitative role
+102,curious
+102,creative
+102,rigorous
+102,challenge assumptions
+102,revise opinions
+102,self-motivated
+102,productiove
+102,sense of urgency
+102,sense of accountability
+102,take ownership
+102,work independently
+102,work within a small team
+102,attention to detail
+102,meticulous
+102,manage multiple threads of work
+102,priorise work
+102,work across disciplines
+102,communication skills
+102,collaboration skills
+102,providing actionable feedback
+102,receiving feedback
+103,fixed income modelling
+103,derivatived modelling
+103,pricing models
+103,risk management
+103,numerical methods
+103,optimisation
+103,monte carlo simulation
+103,Python
+103,C++
+103,data ingestion
+103,ETL automation
+103,high-performance computing
+103,parallelization
+103,memory management
+103,statistical validation
+103,backtesting
+103,rigorous
+103,statistical analysis
+103,hypothesis testing
+103,acuqiring data
+103,cleaning data
+103,integrating complex datasets
+103,data integrity
+103,data repoducibility
+103,data scalability
+103,dicipline coding practices
+103,comprehesive documentation
+103,version control
+103,auditability
+103,regulatory requirements
+103,model governance
+103,advanced degree
+103,quantitative libraries
+103,research cycle
+103,data wrangling
+103,model calibration
+103,toubleshooting technical issues
+103,analytical
+103,detail-oriented
+103,curious
+103,quantitative methods
+103,evolving conditions
+103,adapting models
+103,actionable insights
+103,convey effectively
+104,PhD
+104,Python
+104,C#
+104,C++
+104,mathematical modelling
+104,statistical modelling
+104,mathematical skills
+104,analytic mindset
+104,sport trading
+105,software engineering
+105,C#
+105,.Net
+105,mathematical degree
+105,quantitative finance
+105,VaR risk models
